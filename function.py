@@ -6,19 +6,27 @@ class Eddies_Tools():
 
         chatlog = pd.read_csv(filepath, sep='\n', header=None)
 
-        time_stamp = []
         text = []
+        date = []
+        time = []
 
         for chat in chatlog[0]:
             if '[2. Trade]' in chat:
                 split_chat = chat.split('  ', maxsplit=1)
-                time_stamp.append(split_chat[0])
+
+                stamp = split_chat[0]
                 text.append(split_chat[1])
+
+                split_stamp = stamp.split(' ', maxsplit=1)
+
+                date.append(split_stamp[0])
+                time.append(split_stamp[1])
             else:
                 continue
 
         trade_chat = pd.DataFrame()
-        trade_chat['time_stamp'] = time_stamp
+        trade_chat['date'] = date
+        trade_chat['time'] = time
         trade_chat['text'] = text
 
         tag_removed = []
