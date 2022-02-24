@@ -1,6 +1,26 @@
 import pandas as pd
+import numpy as np
+from sklearn.model_selection import train_test_split, cross_val_score
+from sklearn.metrics import accuracy_score
 
 class Eddies_Tools():
+
+
+    def run_model(self, X, y, model, t_size=0.25, r_state=5, cv=5):
+
+        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size= t_size, random_state= r_state)
+
+        model.fit(X_train,y_train)
+
+        cv_score = round(np.mean(cross_val_score(model, X_train, y_train, cv= cv, scoring='accuracy')),4)
+
+        y_pred = model.predict(X_test)
+        accuracy = round(accuracy_score(y_pred, y_test), 4)
+
+        return cv_score, accuracy
+
+
+
 
     def convert_to_df(self, filepath):
 
@@ -40,4 +60,101 @@ class Eddies_Tools():
         trade_chat['text'] = tag_removed
 
         return trade_chat
+
+
+
+    def token_(self, text, tokenizer, stopwords):
+
+        # Tokenize using `tokenizer`
+        text = tokenizer.tokenize(text)
+        
+        # Remove stopwords
+        text = [token for token in text if token not in stopwords]
+        
+        return text
+
+
+
+    def token_lemmatizer(self, text, tokenizer, stopwords):
+        """
+        Takes in a sting, RegexpTokenizer instance, and stopwords
+        to tokenize and lemmatize a string
+        Parameters
+        ----------
+            text: str
+                string to be tokenized and lemmatized
+            tokenizer: nltk.tokenize.regexp.RegexpTokenizer
+                instanced RegexpTokenizer to use for tokenizing
+            stopwords: list
+                list of frequent words to have removed from text.
+        Returns
+        -------
+        Tokenized and stemmed string.
+        """
+
+        # importing stemmer and instancing the object
+        from nltk.stem.wordnet import WordNetLemmatizer
+        lemmatizer = WordNetLemmatizer()
+
+        # Tokenize using `tokenizer`
+        text = tokenizer.tokenize(text)
+        
+        # Remove stopwords
+        text = [token for token in text if token not in stopwords]
+        
+        # Stem the tokenized text
+        text = [lemmatizer.lemmatize(token) for token in text]
+
+        return text
+
+
+
+    def token_porter(self, text, tokenizer, stopwords):
+        """
+        Takes in a string, RegexpTokenizer instance, and stopwords
+        to tokenize and stem a string
+        Parameters
+        ----------
+            text: str
+                string to be tokenized and stemmed
+            tokenizer: nltk.tokenize.regexp.RegexpTokenizer
+                instanced RegexpTokenizer to use for tokenizing
+            stopwords: list
+                list of frequent words to have removed from text.
+        
+        Returns
+        -------
+        Tokenized and stemmed string.
+        """
+        # importing stemmer and instancing the object
+        from nltk.stem import PorterStemmer
+        stemmer = PorterStemmer()
+
+        # Tokenize using `tokenizer`
+        text = tokenizer.tokenize(text)
+        
+        # Remove stopwords
+        text = [token for token in text if token not in stopwords]
+        
+        # Stem the tokenized text
+        text = [stemmer.stem(token) for token in text]
+
+        return text
+
+
+
+    def nlp_tokenizer(self, dataframe, tokenizer, stopwords, stem=None):
+
+        df = dataframe.copy()
+    
+        if stem == 'porter':
+            df['text_tokenized'] = df['text'].apply(lambda x: self.token_porter(x, tokenizer, stopwords))
+        elif stem == 'lemmatizer':
+            df['text_tokenized'] = df['text'].apply(lambda x: self.token_lemmatizer(x, tokenizer, stopwords))
+        else:
+            df['text_tokenized'] = df['text'].apply(lambda x: self.token_(x, tokenizer, stopwords))
+
+        df['joined_tokens'] = df['text_tokenized'].str.join(" ")
+
+        return df
 
