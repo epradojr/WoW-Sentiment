@@ -17,7 +17,7 @@ class Eddies_Tools():
         y_pred = model.predict(X_test)
         accuracy = round(accuracy_score(y_pred, y_test), 4)
 
-        return cv_score, accuracy
+        return cv_score, accuracy, y_pred, model
 
 
 
