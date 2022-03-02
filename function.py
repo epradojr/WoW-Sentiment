@@ -146,6 +146,8 @@ class Eddies_Tools():
     def nlp_tokenizer(self, dataframe, tokenizer, stopwords, stem=None):
 
         df = dataframe.copy()
+
+        df.text = df.text.str.lower()
     
         if stem == 'porter':
             df['text_tokenized'] = df['text'].apply(lambda x: self.token_porter(x, tokenizer, stopwords))
@@ -153,6 +155,18 @@ class Eddies_Tools():
             df['text_tokenized'] = df['text'].apply(lambda x: self.token_lemmatizer(x, tokenizer, stopwords))
         else:
             df['text_tokenized'] = df['text'].apply(lambda x: self.token_(x, tokenizer, stopwords))
+
+
+        text_list = df.text_tokenized.copy()
+
+        for i, lists in enumerate(df.text_tokenized):
+            if lists == []:
+                if df.sentiment[i] == 'Negative':
+                    text_list.iloc[i] = ['negative']
+                else:
+                    text_list.iloc[i] = ['other']
+
+        df.text_tokenized = text_list
 
         df['joined_tokens'] = df['text_tokenized'].str.join(" ")
 
