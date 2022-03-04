@@ -5,6 +5,18 @@ from sklearn.metrics import accuracy_score
 
 class Eddies_Tools():
 
+    def down_sample(self, df, label_name):
+        # find the number of observations in the smallest group
+        nmin = df[label_name].value_counts().min()
+        return (df
+                # split the dataframe per group
+                .groupby(label_name)
+                # sample nmin observations from each group
+                .apply(lambda x: x.sample(nmin))
+                # recombine the dataframes
+                .reset_index(drop=True)
+                )
+
 
     def run_model(self, X, y, model, t_size=0.25, r_state=5, cv=5):
 
