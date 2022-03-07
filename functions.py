@@ -1,9 +1,24 @@
+# importing libraries
 import pandas as pd
 import numpy as np
-from sklearn.model_selection import train_test_split, cross_val_score
-from sklearn.metrics import accuracy_score
 
-class Eddies_Tools():
+# import for scoring and train_test_split
+from sklearn.model_selection import train_test_split, cross_val_score
+
+
+class TradeChat():
+
+    def down_sample(self, df, label_name):
+        # find the number of observations in the smallest group
+        nmin = df[label_name].value_counts().min()
+        return (df
+                # split the dataframe per group
+                .groupby(label_name)
+                # sample nmin observations from each group
+                .apply(lambda x: x.sample(nmin))
+                # recombine the dataframes
+                .reset_index(drop=True)
+                )
 
 
     def run_model(self, X, y, model, t_size=0.25, r_state=5, cv=5):
@@ -12,12 +27,13 @@ class Eddies_Tools():
 
         model.fit(X_train,y_train)
 
-        cv_score = round(np.mean(cross_val_score(model, X_train, y_train, cv= cv, scoring='accuracy')),4)
+        cv_acc = round(np.mean(cross_val_score(model, X_train, y_train, cv= cv, scoring='accuracy')),4)
+        cv_rec = round(np.mean(cross_val_score(model, X_train, y_train, cv= cv, scoring='recall')),4)
+        cv_pre = round(np.mean(cross_val_score(model, X_train, y_train, cv= cv, scoring='precision')),4)
 
         y_pred = model.predict(X_test)
-        accuracy = round(accuracy_score(y_pred, y_test), 4)
-
-        return cv_score, accuracy
+    
+        return cv_acc,cv_rec,cv_pre, y_pred, model
 
 
 
@@ -146,6 +162,8 @@ class Eddies_Tools():
     def nlp_tokenizer(self, dataframe, tokenizer, stopwords, stem=None):
 
         df = dataframe.copy()
+
+        df.text = df.text.str.lower()
     
         if stem == 'porter':
             df['text_tokenized'] = df['text'].apply(lambda x: self.token_porter(x, tokenizer, stopwords))
@@ -153,6 +171,18 @@ class Eddies_Tools():
             df['text_tokenized'] = df['text'].apply(lambda x: self.token_lemmatizer(x, tokenizer, stopwords))
         else:
             df['text_tokenized'] = df['text'].apply(lambda x: self.token_(x, tokenizer, stopwords))
+
+
+        text_list = df.text_tokenized.copy()
+
+        for i, lists in enumerate(df.text_tokenized):
+            if lists == []:
+                if df.sentiment[i] == 'Negative':
+                    text_list.iloc[i] = ['negative']
+                else:
+                    text_list.iloc[i] = ['other']
+
+        df.text_tokenized = text_list
 
         df['joined_tokens'] = df['text_tokenized'].str.join(" ")
 
