@@ -3,7 +3,7 @@
 <p></p>
 
 
-<img width=80% src="images\header.PNG">
+<img width=100% src="images\header.PNG">
 <p></p>
 
 ## <b><u>Overview</u></b>
