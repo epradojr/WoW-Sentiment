@@ -102,5 +102,6 @@ Davis, John P., Keith Steury, and Randy Pagulayan. "A survey method for assessin
 ├── images                       <- Both sourced externally and generated from code 
 ├── .gitignore                   <- gitignore      
 ├── README.md                    <- The top-level README for reviewers of this project
+├── environment.yml              <- Environment Reproducibility 
 ├── presentation.pdf             <- PDF version of project presentation
 └── index.ipynb                  <- Narrative documentation of analysis and modeling
