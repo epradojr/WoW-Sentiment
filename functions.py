@@ -11,7 +11,24 @@ from sklearn.metrics import accuracy_score, confusion_matrix, recall_score, prec
 
 
 class TradeChat():
+    """
+    A class to model, clean, tokenize, and down sample Trade Chat log data
+    
+    ...
+    Methods
+    -------
+    multi_run_model(self, models, X_train, y_train, X_test, y_test, model_labels, 
+                    score='accuracy')
+    down_sample(self, df, label_name)
+    convert_to_df(self, filepath)
+    token_(self, text, tokenizer, stopwords):
+    token_lemmatizer(self, text, tokenizer, stopwords):
+    token_porter(self, text, tokenizer, stopwords):
+    (self, dataframe, tokenizer, stopwords, stem=None):
+    top_words
 
+
+    """
 
     def multi_run_model(self, models, X_train, y_train, X_test, y_test, model_labels, score='accuracy'):
         # Dict to hold model performance
@@ -85,27 +102,13 @@ class TradeChat():
                 )
 
 
-    def run_model(self, X, y, model, t_size=0.25, r_state=5, cv=5):
-
-        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size= t_size, random_state= r_state)
-
-        model.fit(X_train,y_train)
-
-        cv_acc = round(np.mean(cross_val_score(model, X_train, y_train, cv= cv, scoring='accuracy')),4)
-        cv_rec = round(np.mean(cross_val_score(model, X_train, y_train, cv= cv, scoring='recall')),4)
-        cv_pre = round(np.mean(cross_val_score(model, X_train, y_train, cv= cv, scoring='precision')),4)
-
-        y_pred = model.predict(X_test)
-    
-        return cv_acc,cv_rec,cv_pre, y_pred, model
-
-
-
 
     def convert_to_df(self, filepath):
 
+        # loads in text file
         chatlog = pd.read_csv(filepath, sep='\n', header=None)
 
+        # declaring variables for column creation
         text = []
         date = []
         time = []
