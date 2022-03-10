@@ -1,4 +1,4 @@
-# World of Warcraft In-game Sentiment Using Trade Chat
+# World of Warcraft: In-Game Player Feedback Using Trade Chat
 #### *Author: Edel Prado*
 <p></p>
 
@@ -38,18 +38,25 @@ Here we have some of the top topics found in negative chat. In our server stabil
 ## <b><u>Models</u></b>
 Since I'm not able to clone myself, I created three models. My first model is a multiclass model to classify the topic of the text as chat, game, or service. The next model is a sentiment model that labels the text as either negative or non-negative sentiment. My final model is my topic model that is only fed negative game classified text to create player feedback on the current state of World of Warcraft.
 ### <u>Multiclass Model</u>
+For my multiclass model, the best performing model was logistic regression which  had a accuracy score of around 77.40% on unseen data. This was a 4.19% increase from its base model performance and a 30% lift when compared to randomly picking out the game label.
 
 <img width=55% src="images\multiclass_chart.PNG">
+
+Next up we have our confusion matrix of what the model predicted. You can see that it was able to classify a majority of the game related text but with some misclassification with the chat label.
 
 <img width=45% src="images\multi_logreg.PNG">
 
 ### <u>Sentiment Model</u>
+For Sentiment, the best performing model was a logistic regression again. which  had a recall score of around 78.48%. I went with a recall score for this model since it was important to be able to classify the negative sentiment text to find out what players are having issues with in-game. The non-negative text has low priority.
 
 <img width=55% src="images\sentiment_chart.PNG">
+
+Let’s take a look at the confusion matrix for sentiment below. The model was able to predict a majority of the negative sentiment, but it clearly has issues with misclassification of non-negative on the bottom left square. Since classifying negative is important for finding player feedback, the model may need more data to train on. 
 
 <img width=45% src="images\sent_logreg.PNG">
 
 ### <u>Topic Model</u>
+I used a Gibbs Sampling Dirichlet Multinomial Mixture, or GDSMM for short, fo r my topic model. It is essentially a modified Latent Dirichlet Allocation (LDA) which assumes that a document only has one topic. This is different than LDA which assumes that a document can have multiple topics. This is perfect for what we’re are hoping to accomplish when looking at trade chat for player feedback since the text is usually short and to the point. Here we have the top eight clusters that the model provided.  
 
 <img width=80% src="images\topic_clusters.PNG">
 
@@ -71,7 +78,7 @@ Moving into future reasearch, I would focus on the following:
 
 3. Adapt my models to track harassment and block it so as to not deter newer players from World of Warcraft. 
 ## <b><u>For More Information</u></b>
-Please review my step by step analysis in my jupyter notebook or my presentation.
+Please review my step by step analysis in my [jupyter notebook](index.ipynb) or my [presentation](presentation.pdf).
 
 Feel free to contact me through the below links if you have any questions.
 
