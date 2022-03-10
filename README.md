@@ -11,6 +11,9 @@
 World of Warcraft has been slowly losing its player base the past five years because of a multitude of issues in game design and communication with consumers. To better improve the game and decrease player negative sentiment, Blizzard Entertainment, the creators of World of Warcraft, should focus on gathering player feedback and what better way to do that than to gather it from inside the game. This specifically being the chat channel called Trade Chat.
 ## <b><u>Business Problem</u></b>
 World of Warcraft has been the top massive multiplayer online game since it was released on November 23, 2004, but it has been struggling to keep active players for the past five years. With the new content patch 9.2, Eternity’s End, many players are returning to the game. To keep the attention of their subscribers, Blizzard Entertainment, the creators of World of Warcraft, should be looking to gather player feedback on the newly released patch update to keep it’s player base content.
+
+A matter of fact, a academic paper titled *A survey method for assessing perceptions of a game: The consumer playtest in game design* by authors John P. Davis, Keith Steury, and Randy Pagulayan, goes into detail on how, "Game designers can reap the benefits of better feedback from consumers about their games, but gathering such information in
+this domain is challenging." By sourcing feedback directly from the game, it will provide a friction less flow of feedback to better provide idea on how to improve World of Warcraft.
 ## <b><u>The Data</u></b>
 *What is Trade Chat?* <p></p>
 Trade chat is a chat channel that can be seen by all players in any major player hubs per server. In my case, the server was Area 52 which is the most player populated server currently. The channel was meant for trading between players, but has become infamous for trolling as well as harassment. 
@@ -47,7 +50,8 @@ Next up we have our confusion matrix of what the model predicted. You can see th
 <img width=45% src="images\multi_logreg.PNG">
 
 ### <u>Sentiment Model</u>
-For Sentiment, the best performing model was a logistic regression again. which  had a recall score of around 78.48%. I went with a recall score for this model since it was important to be able to classify the negative sentiment text to find out what players are having issues with in-game. The non-negative text has low priority.
+For Sentiment, the best performing model was a logistic regression again. which  had a recall score of around 77.38%. I went with a recall score for this model since it was important to be able to classify the negative sentiment text to find out what players are having issues with in-game. The non-negative text has low priority. 
+
 
 <img width=55% src="images\sentiment_chart.PNG">
 
@@ -60,7 +64,9 @@ I used a Gibbs Sampling Dirichlet Multinomial Mixture, or GDSMM for short, fo r 
 
 <img width=80% src="images\topic_clusters.PNG">
 
+I found GDSMM incredibly helpful and fascinating. A paper written by Jianhua Yin and Jianyong Wang whom proposed this cluster model assisted me in understaning how each parameter worked. They went into enormus detail on the influences of alpha, beta, as well as the number of clusters to start with.
 
+If you have that time, I would recommend giving this [paper](http://dbgroup.cs.tsinghua.edu.cn/wangjy/papers/KDD14-GSDMM.pdf) a thorough read.
 ## <b><u>Suggestions</u></b>
 For our suggestions based on player feedback, Blizzard Entertainment should focus on three areas. 
 1. Increase server stability during launch of new content. 
@@ -85,8 +91,12 @@ Feel free to contact me through the below links if you have any questions.
 Edel Prado | Data Scientist: 
 [ [LinkedIn](https://www.linkedin.com/in/edel-prado-jr/) ] [ [Email](edel.prado.jr@gmail.com) ]
 
+<b>References:</b>
 
-<b>Repository Structure:<b>
+Davis, John P., Keith Steury, and Randy Pagulayan. "A survey method for assessing perceptions of a game: The consumer playtest in game design." Game Studies 5.1 (2005): 1-13.
+
+
+<b>Repository Structure:</b>
 ```
 ├── data                         <- Both sourced externally and generated from code 
 ├── images                       <- Both sourced externally and generated from code 
