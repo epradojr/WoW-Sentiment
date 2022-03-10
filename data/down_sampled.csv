@@ -1,0 +1,835 @@
+,date,time,text,sentiment,target,text_tokenized,joined_tokens
+0,2/23/2022,9:37:40 PM, nah idc about raids,Negative,Game,"['nah', 'idc', 'raids']",nah idc raids
+1,2/23/2022,11:02:46 AM, buy a token better gp/h at ur retail job than whatever trash u do on here,Negative,Game,"['buy', 'token', 'better', 'gp', 'h', 'retail', 'job', 'whatever', 'trash']",buy token better gp h retail job whatever trash
+2,2/22/2022,6:54:12 PM, so what now in zerith mortis ?,Negative,Game,"['zerith', 'mortis']",zerith mortis
+3,2/22/2022,9:37:46 PM, same servers #@$%@#%^,Negative,Game,['servers'],servers
+4,2/22/2022,6:25:49 PM, bold of you to assume that it  isn't blizzard 1st day bugs as per the usual,Negative,Game,"['bold', 'assume', 'blizzard', 'day', 'bugs', 'per', 'usual']",bold assume blizzard day bugs per usual
+5,2/22/2022,6:11:22 PM," get used to the gear, it gonna be 13 months before the new xpac",Negative,Game,"['get', 'used', 'gear', 'gonna', 'months', 'new', 'xpac']",get used gear gonna months new xpac
+6,2/23/2022,7:43:34 PM, aren't all hunter sets?,Negative,Game,"['hunter', 'sets']",hunter sets
+7,2/22/2022,8:14:50 AM, probaly thw whole day,Negative,Game,"['probaly', 'thw', 'whole', 'day']",probaly thw whole day
+8,2/23/2022,5:26:00 PM, shit is cake ,Negative,Game,"['shit', 'cake']",shit cake
+9,2/23/2022,1:08:05 AM, which is just untrue from what i can tell,Negative,Game,"['untrue', 'tell']",untrue tell
+10,2/22/2022,8:42:20 PM, lol,Negative,Game,['lol'],lol
+11,2/22/2022,9:53:41 PM," i couldn't gate in to oribos, so i tried to fly in... now i'm stuck on the mount floating 1 foot off of the ground",Negative,Game,"['gate', 'oribos', 'tried', 'fly', 'stuck', 'mount', 'floating', 'foot', 'ground']",gate oribos tried fly stuck mount floating foot ground
+12,2/22/2022,7:31:09 PM, kinda shocked not one new battle ground either,Negative,Game,"['kinda', 'shocked', 'one', 'new', 'battle', 'ground', 'either']",kinda shocked one new battle ground either
+13,2/23/2022,2:02:46 PM, 2 tokens lol,Negative,Game,"['tokens', 'lol']",tokens lol
+14,2/22/2022,11:26:11 PM, really glitchy and laggy tonight,Negative,Game,"['really', 'glitchy', 'laggy', 'tonight']",really glitchy laggy tonight
+15,2/22/2022,8:04:36 PM, lf mage port to org from oribos. my game is bugged and the portal isnt here. plz,Negative,Game,"['lf', 'mage', 'port', 'org', 'oribos', 'game', 'bugged', 'portal', 'isnt', 'plz']",lf mage port org oribos game bugged portal isnt plz
+16,2/22/2022,8:16:44 AM, i feel ban was unjust,Negative,Game,"['feel', 'ban', 'unjust']",feel ban unjust
+17,2/22/2022,10:43:37 PM, anyone else eating shit and dcing,Negative,Game,"['anyone', 'else', 'eating', 'shit', 'dcing']",anyone else eating shit dcing
+18,2/22/2022,9:09:28 PM, who broke org,Negative,Game,"['broke', 'org']",broke org
+19,2/22/2022,11:38:14 PM, did the server crash? cannot zone into org.,Negative,Game,"['server', 'crash', 'cannot', 'zone', 'org']",server crash cannot zone org
+20,2/22/2022,6:54:45 PM, and completed weekly so now what ?,Negative,Game,"['completed', 'weekly']",completed weekly
+21,2/23/2022,1:10:49 AM, org is broken right now,Negative,Game,"['org', 'broken', 'right']",org broken right
+22,2/22/2022,8:09:51 PM," nah, just sucks for alts ig",Negative,Game,"['nah', 'sucks', 'alts', 'ig']",nah sucks alts ig
+23,2/22/2022,8:58:25 PM, operation get the fuck out of oribos,Negative,Game,"['operation', 'get', 'fuck', 'oribos']",operation get fuck oribos
+24,2/22/2022,8:52:32 PM, what chores do ineeda do for this patch?,Negative,Game,"['chores', 'ineeda', 'patch']",chores ineeda patch
+25,2/23/2022,7:29:05 PM, so many scammers in trade,Negative,Game,"['many', 'scammers', 'trade']",many scammers trade
+26,2/23/2022,1:09:05 AM, org is broken rn dont tp there,Negative,Game,"['org', 'broken', 'rn', 'tp']",org broken rn tp
+27,2/22/2022,6:35:52 PM, it beats you,Negative,Game,['beats'],beats
+28,2/22/2022,8:59:13 PM, gotta love patch day,Negative,Game,"['gotta', 'love', 'patch', 'day']",gotta love patch day
+29,2/22/2022,10:35:48 PM, lol yeah that won't be abused. so same as usual then,Negative,Game,"['lol', 'yeah', 'abused', 'usual']",lol yeah abused usual
+30,2/23/2022,2:21:06 PM, feral druid are so bad now,Negative,Game,"['feral', 'druid', 'bad']",feral druid bad
+31,2/22/2022,10:00:45 PM, is oribos broken??,Negative,Game,"['oribos', 'broken']",oribos broken
+32,2/23/2022,2:35:42 PM, and funding the gold selling websites,Negative,Game,"['funding', 'gold', 'selling', 'websites']",funding gold selling websites
+33,2/22/2022,9:21:27 PM, log out,Negative,Game,['log'],log
+34,2/22/2022,10:32:32 PM, maybe im just getting bored of blizz cookie cutter new area,Negative,Game,"['maybe', 'getting', 'bored', 'blizz', 'cookie', 'cutter', 'new', 'area']",maybe getting bored blizz cookie cutter new area
+35,2/23/2022,7:43:54 PM, aren't most of the new sets?,Negative,Game,"['new', 'sets']",new sets
+36,2/23/2022,12:25:42 AM, why is there no good mogs of a zandalari troll druid are they all just ugly or cant dress?,Negative,Game,"['good', 'mogs', 'zandalari', 'troll', 'druid', 'ugly', 'cant', 'dress']",good mogs zandalari troll druid ugly cant dress
+37,2/22/2022,8:59:32 PM, does this fix or do i need to relog,Negative,Game,"['fix', 'need', 'relog']",fix need relog
+38,2/22/2022,6:03:20 PM, k,Negative,Game,['k'],k
+39,2/22/2022,11:37:15 PM, been sitting here forever just dc me,Negative,Game,"['sitting', 'forever', 'dc']",sitting forever dc
+40,2/22/2022,6:24:55 PM, lol,Negative,Game,['lol'],lol
+41,2/23/2022,1:07:42 AM, honest to god i have no idea why i resubbed when elden ring is about to drop,Negative,Game,"['honest', 'god', 'idea', 'resubbed', 'elden', 'ring', 'drop']",honest god idea resubbed elden ring drop
+42,2/23/2022,7:43:32 PM, fact,Negative,Game,['fact'],fact
+43,2/23/2022,1:07:06 AM, some asshole conned me into playin again for this patch,Negative,Game,"['asshole', 'conned', 'playin', 'patch']",asshole conned playin patch
+44,2/23/2022,7:47:07 PM, yeah we know its ugly,Negative,Game,"['yeah', 'know', 'ugly']",yeah know ugly
+45,2/22/2022,8:40:01 PM," can't teleport to oribos, is it broken?",Negative,Game,"['teleport', 'oribos', 'broken']",teleport oribos broken
+46,2/22/2022,8:43:15 AM, im guessing theyll extend it 1 or 2 times and itll be almost midnight lol ,Negative,Game,"['guessing', 'theyll', 'extend', 'times', 'itll', 'almost', 'midnight', 'lol']",guessing theyll extend times itll almost midnight lol
+47,2/22/2022,8:14:42 AM, 8 hours?,Negative,Game,['hours'],hours
+48,2/22/2022,6:55:28 PM, play uninstall wizard,Negative,Game,"['play', 'uninstall', 'wizard']",play uninstall wizard
+49,2/22/2022,9:37:59 PM, if every time it takes me out of the server,Negative,Game,"['every', 'time', 'takes', 'server']",every time takes server
+50,2/23/2022,10:30:03 AM, not allways,Negative,Game,['allways'],allways
+51,2/23/2022,6:38:32 PM, feels like dead server now,Negative,Game,"['feels', 'like', 'dead', 'server']",feels like dead server
+52,2/23/2022,10:34:10 AM, wow there is not 1 new pet on ah. guess the patch never released none yet?????,Negative,Game,"['wow', 'new', 'pet', 'ah', 'guess', 'patch', 'never', 'released', 'none', 'yet']",wow new pet ah guess patch never released none yet
+53,2/23/2022,12:42:23 AM, level 2 no guild nice try scammer ,Negative,Game,"['level', 'guild', 'nice', 'try', 'scammer']",level guild nice try scammer
+54,2/22/2022,8:08:18 PM, are people having trouble finishing a hast voyage?? i keep just falling and then takes me back to the start,Negative,Game,"['people', 'trouble', 'finishing', 'hast', 'voyage', 'keep', 'falling', 'takes', 'back', 'start']",people trouble finishing hast voyage keep falling takes back start
+55,2/22/2022,7:31:19 PM, for real where is the solo shuffle,Negative,Game,"['real', 'solo', 'shuffle']",real solo shuffle
+56,2/22/2022,6:18:33 PM, what a deal,Negative,Game,['deal'],deal
+57,2/22/2022,9:22:09 PM, this just happened in ardenweald and it took about 7 minutes to d/c and come back up,Negative,Game,"['happened', 'ardenweald', 'took', 'minutes', 'c', 'come', 'back']",happened ardenweald took minutes c come back
+58,2/22/2022,9:19:35 PM, problably a dc,Negative,Game,"['problably', 'dc']",problably dc
+59,2/23/2022,10:36:22 AM, fuck u think they would learn.,Negative,Game,"['fuck', 'think', 'would', 'learn']",fuck think would learn
+60,2/22/2022,6:09:27 PM, and its going to be forever,Negative,Game,"['going', 'forever']",going forever
+61,2/22/2022,6:29:39 PM, i just paid $15 again. not sure if i am going to regret coming back,Negative,Game,"['paid', 'sure', 'going', 'regret', 'coming', 'back']",paid sure going regret coming back
+62,2/22/2022,9:36:33 PM, kanye crashed the servers,Negative,Game,"['kanye', 'crashed', 'servers']",kanye crashed servers
+63,2/22/2022,11:37:08 PM, come on ddc,Negative,Game,"['come', 'ddc']",come ddc
+64,2/22/2022,6:07:55 PM," i guess the raids and the other things are for real players, like the unemployed. the paying customers have to wait.",Negative,Game,"['guess', 'raids', 'things', 'real', 'players', 'like', 'unemployed', 'paying', 'customers', 'wait']",guess raids things real players like unemployed paying customers wait
+65,2/22/2022,9:25:32 PM, i got dcd!,Negative,Game,"['got', 'dcd']",got dcd
+66,2/23/2022,10:29:09 AM, they are gonna fix it in 10.2 they said,Negative,Game,"['gonna', 'fix', 'said']",gonna fix said
+67,2/22/2022,8:11:35 PM, time to ditch the alts ig,Negative,Game,"['time', 'ditch', 'alts', 'ig']",time ditch alts ig
+68,2/23/2022,6:38:02 PM, blizz banned em ball,Negative,Game,"['blizz', 'banned', 'em', 'ball']",blizz banned em ball
+69,2/23/2022,12:51:00 AM, chains of domination wtf,Negative,Game,"['chains', 'domination', 'wtf']",chains domination wtf
+70,2/23/2022,1:10:22 AM, anyone else can't port to ogrimar?,Negative,Game,"['anyone', 'else', 'port', 'ogrimar']",anyone else port ogrimar
+71,2/23/2022,7:46:53 PM, omg the new warrior set looks so bad,Negative,Game,"['omg', 'new', 'warrior', 'set', 'looks', 'bad']",omg new warrior set looks bad
+72,2/22/2022,8:14:50 AM, prolly honestly 12 hours,Negative,Game,"['prolly', 'honestly', 'hours']",prolly honestly hours
+73,2/23/2022,11:48:48 AM, its fucking run here run there jump here click that then you can finally open a chest for percentage to fill a rep bar,Negative,Game,"['fucking', 'run', 'run', 'jump', 'click', 'finally', 'open', 'chest', 'percentage', 'fill', 'rep', 'bar']",fucking run run jump click finally open chest percentage fill rep bar
+74,2/22/2022,8:23:51 PM, hes a scammer,Negative,Game,"['hes', 'scammer']",hes scammer
+75,2/22/2022,5:14:34 PM, >:(,Negative,Game,['negative'],negative
+76,2/22/2022,8:39:53 AM, awww,Negative,Game,['awww'],awww
+77,2/23/2022,9:36:30 PM," my sub expires tomorrow and i dont plan on reupping it til next xpac, did the same in bfa when it got too shitty",Negative,Game,"['sub', 'expires', 'tomorrow', 'plan', 'reupping', 'til', 'next', 'xpac', 'bfa', 'got', 'shitty']",sub expires tomorrow plan reupping til next xpac bfa got shitty
+78,2/23/2022,7:01:32 PM, qq,Negative,Game,['qq'],qq
+79,2/22/2022,9:36:25 PM, why do i keep getting dced,Negative,Game,"['keep', 'getting', 'dced']",keep getting dced
+80,2/23/2022,9:43:49 PM, its also trumps fault that the blizz devs didnt start fixing the xpac til the last patch too,Negative,Game,"['also', 'trumps', 'fault', 'blizz', 'devs', 'didnt', 'start', 'fixing', 'xpac', 'til', 'last', 'patch']",also trumps fault blizz devs didnt start fixing xpac til last patch
+81,2/22/2022,11:02:47 PM, trueth,Negative,Game,['trueth'],trueth
+82,2/23/2022,6:37:50 PM, there are no new players anymore,Negative,Game,"['new', 'players', 'anymore']",new players anymore
+83,2/23/2022,2:02:47 PM, he spent 40 bucks on coins,Negative,Game,"['spent', 'bucks', 'coins']",spent bucks coins
+84,2/23/2022,2:09:34 PM, with this shit expansion its to be expected they couldn't handle a full ass new dungeon,Negative,Game,"['shit', 'expansion', 'expected', 'handle', 'full', 'ass', 'new', 'dungeon']",shit expansion expected handle full ass new dungeon
+85,2/23/2022,9:29:17 PM, legion was fantastic after they spent 2/3 of the xpac fixing legion,Negative,Game,"['legion', 'fantastic', 'spent', 'xpac', 'fixing', 'legion']",legion fantastic spent xpac fixing legion
+86,2/22/2022,9:20:38 PM, blizzard the startup,Negative,Game,"['blizzard', 'startup']",blizzard startup
+87,2/22/2022,6:09:39 PM, is anyone getting bugged from the first quest to get into zerth mortis,Negative,Game,"['anyone', 'getting', 'bugged', 'first', 'quest', 'get', 'zerth', 'mortis']",anyone getting bugged first quest get zerth mortis
+88,2/22/2022,9:20:35 PM," come on spicy, that´s tradition",Negative,Game,"['come', 'spicy', 'tradition']",come spicy tradition
+89,2/22/2022,10:40:31 PM, bought the ugly ass vulpine,Negative,Game,"['bought', 'ugly', 'ass', 'vulpine']",bought ugly ass vulpine
+90,2/22/2022,9:09:38 PM, wtf is going onj,Negative,Game,"['wtf', 'going', 'onj']",wtf going onj
+91,2/23/2022,11:47:52 AM, all the dumb sht you have to do to open a damn chest is so try hard,Negative,Game,"['dumb', 'sht', 'open', 'damn', 'chest', 'try', 'hard']",dumb sht open damn chest try hard
+92,2/22/2022,8:34:15 AM, i had to fucking all of my days off cuz i am on call this week cuz of dumb ass shit going on at work and now that it is finally my day off wow is down for 18 hours,Negative,Game,"['fucking', 'days', 'cuz', 'call', 'week', 'cuz', 'dumb', 'ass', 'shit', 'going', 'work', 'finally', 'day', 'wow', 'hours']",fucking days cuz call week cuz dumb ass shit going work finally day wow hours
+93,2/23/2022,11:49:29 AM, i love pvp just cause i hate the new zone doesnt mean i hate the game ,Negative,Game,"['love', 'pvp', 'cause', 'hate', 'new', 'zone', 'doesnt', 'mean', 'hate', 'game']",love pvp cause hate new zone doesnt mean hate game
+94,2/22/2022,5:28:05 PM, i feel like ill be confused,Negative,Game,"['feel', 'like', 'ill', 'confused']",feel like ill confused
+95,2/22/2022,8:58:15 PM, every billion person who decided to log in today,Negative,Game,"['every', 'billion', 'person', 'decided', 'log', 'today']",every billion person decided log today
+96,2/22/2022,6:07:17 PM, fuck blizzard,Negative,Game,"['fuck', 'blizzard']",fuck blizzard
+97,2/22/2022,8:07:11 PM," report ripssi, an ah bot in shrine of two moons, there are other bots(multiboxing) on the same and other realms, they all stack the same spot, nearly always logged in on the ah.",Negative,Game,"['report', 'ripssi', 'ah', 'bot', 'shrine', 'two', 'moons', 'bots', 'multiboxing', 'realms', 'stack', 'spot', 'nearly', 'always', 'logged', 'ah']",report ripssi ah bot shrine two moons bots multiboxing realms stack spot nearly always logged ah
+98,2/23/2022,1:10:35 AM," yeah, i god d/c trying. worked the second time, though",Negative,Game,"['yeah', 'god', 'c', 'trying', 'worked', 'second', 'time', 'though']",yeah god c trying worked second time though
+99,2/22/2022,8:41:35 PM, can't relog from orb either,Negative,Game,"['relog', 'orb', 'either']",relog orb either
+100,2/23/2022,1:06:34 AM, lol,Negative,Game,['lol'],lol
+101,2/22/2022,8:07:00 PM," omg, ugly",Negative,Game,"['omg', 'ugly']",omg ugly
+102,2/22/2022,5:19:34 PM, i knew i shoulda worked overtime today xd,Negative,Game,"['knew', 'shoulda', 'worked', 'overtime', 'today', 'xd']",knew shoulda worked overtime today xd
+103,2/23/2022,11:47:13 AM, imagine being bored when a new patch just came out,Negative,Game,"['imagine', 'bored', 'new', 'patch', 'came']",imagine bored new patch came
+104,2/22/2022,5:30:25 PM, nope never,Negative,Game,"['nope', 'never']",nope never
+105,2/23/2022,1:07:37 AM, ya org is fkd,Negative,Game,"['ya', 'org', 'fkd']",ya org fkd
+106,2/22/2022,9:20:50 PM, i cant even log out,Negative,Game,"['cant', 'even', 'log']",cant even log
+107,2/22/2022,9:36:36 PM, same,Negative,Game,['negative'],negative
+108,2/22/2022,9:22:44 PM, ikr?,Negative,Game,['ikr'],ikr
+109,2/23/2022,7:54:24 PM, anyone else have high world ping low home ping,Negative,Game,"['anyone', 'else', 'high', 'world', 'ping', 'low', 'home', 'ping']",anyone else high world ping low home ping
+110,2/22/2022,5:23:37 PM, as soon as i hit 100% mawsrorn defeated it drops me,Negative,Game,"['soon', 'hit', 'mawsrorn', 'defeated', 'drops']",soon hit mawsrorn defeated drops
+111,2/22/2022,8:42:05 PM, you would think a billion dollar company would be able to launch a game without issues wrong,Negative,Game,"['would', 'think', 'billion', 'dollar', 'company', 'would', 'able', 'launch', 'game', 'without', 'issues', 'wrong']",would think billion dollar company would able launch game without issues wrong
+112,2/22/2022,8:13:45 PM, idk i did the 3 chapters and idk what to do now,Negative,Game,"['idk', 'chapters', 'idk']",idk chapters idk
+113,2/23/2022,9:26:47 PM, mad cuz wow is suffering? :(((,Negative,Game,"['mad', 'cuz', 'wow', 'suffering']",mad cuz wow suffering
+114,2/22/2022,8:59:21 PM, yep org broken,Negative,Game,"['yep', 'org', 'broken']",yep org broken
+115,2/22/2022,8:59:57 PM, i thought it was only me,Negative,Game,['thought'],thought
+116,2/23/2022,8:55:14 AM, its over bros,Negative,Game,['bros'],bros
+117,2/22/2022,6:21:17 PM, they'll just drop rate .000000001 and for some of the mounts and i guess that's ok.,Negative,Game,"['drop', 'rate', 'mounts', 'guess', 'ok']",drop rate mounts guess ok
+118,2/23/2022,1:05:34 AM, org is broke rn i think,Negative,Game,"['org', 'broke', 'rn', 'think']",org broke rn think
+119,2/22/2022,10:43:52 PM, servers are ass today,Negative,Game,"['servers', 'ass', 'today']",servers ass today
+120,2/22/2022,10:41:08 PM, is anyone els not able to long in to a toon and it says name is alredy in use even though your toon is lvl 6 and you have had it a long time?,Negative,Game,"['anyone', 'els', 'able', 'long', 'toon', 'says', 'name', 'alredy', 'use', 'even', 'though', 'toon', 'lvl', 'long', 'time']",anyone els able long toon says name alredy use even though toon lvl long time
+121,2/22/2022,5:21:01 PM, cause of science. :/,Negative,Game,"['cause', 'science']",cause science
+122,2/22/2022,6:07:11 PM, alt-ctrl-delete or alt-f4,Negative,Game,"['alt', 'ctrl', 'delete', 'alt', 'f']",alt ctrl delete alt f
+123,2/23/2022,10:35:27 AM, blizzard has gone to shit >>,Negative,Game,"['blizzard', 'gone', 'shit']",blizzard gone shit
+124,2/22/2022,9:21:28 PM, alt + f4,Negative,Game,"['alt', 'f']",alt f
+125,2/22/2022,10:39:34 PM, -for some reason when i try to log in to my toon thats in the new area it tells me my name is alredy in use ? nit ive had this toon for 3 months ,Negative,Game,"['reason', 'try', 'log', 'toon', 'new', 'area', 'tells', 'name', 'alredy', 'use', 'nit', 'ive', 'toon', 'months']",reason try log toon new area tells name alredy use nit ive toon months
+126,2/22/2022,5:22:43 PM, whe n i fall toward the sin eater i get put back in orbios,Negative,Game,"['whe', 'n', 'fall', 'toward', 'sin', 'eater', 'get', 'put', 'back', 'orbios']",whe n fall toward sin eater get put back orbios
+127,2/23/2022,2:05:38 PM, yall are real toxic sellin that shit lol,Negative,Game,"['yall', 'real', 'toxic', 'sellin', 'shit', 'lol']",yall real toxic sellin shit lol
+128,2/23/2022,9:36:25 PM, a normal person ... like me ... like many others .. not dummies like you ... unsub and play something else till something new drops.  not that hard.,Negative,Game,"['normal', 'person', 'like', 'like', 'many', 'others', 'dummies', 'like', 'unsub', 'play', 'something', 'else', 'till', 'something', 'new', 'drops', 'hard']",normal person like like many others dummies like unsub play something else till something new drops hard
+129,2/22/2022,7:32:32 PM, anyone els have issue with the portalk,Negative,Game,"['anyone', 'els', 'issue', 'portalk']",anyone els issue portalk
+130,2/22/2022,6:02:56 PM, k,Negative,Game,['k'],k
+131,2/22/2022,8:55:10 PM, bs i want it now,Negative,Game,"['bs', 'want']",bs want
+132,2/22/2022,7:31:14 PM, no new dungs,Negative,Game,"['new', 'dungs']",new dungs
+133,2/22/2022,10:33:26 PM, anyone else having a shit ton of issues with this dlc,Negative,Game,"['anyone', 'else', 'shit', 'ton', 'issues', 'dlc']",anyone else shit ton issues dlc
+134,2/22/2022,8:43:58 PM, man this lag,Negative,Game,"['man', 'lag']",man lag
+135,2/22/2022,8:37:22 PM, lagobis,Negative,Game,['lagobis'],lagobis
+136,2/22/2022,8:45:25 PM, oribos big fucked rn lol,Negative,Game,"['oribos', 'big', 'fucked', 'rn', 'lol']",oribos big fucked rn lol
+137,2/22/2022,5:22:31 PM, anyone having an issue with the first quest,Negative,Game,"['anyone', 'issue', 'first', 'quest']",anyone issue first quest
+138,2/22/2022,8:58:02 PM, who broke wow,Negative,Game,"['broke', 'wow']",broke wow
+139,2/22/2022,6:56:16 PM, if u havent figured out this game is worthless idek what to tell u brotherman,Negative,Game,"['havent', 'figured', 'game', 'worthless', 'idek', 'tell', 'brotherman']",havent figured game worthless idek tell brotherman
+140,2/23/2022,12:58:25 AM, i'm dancing without legs,Negative,Game,"['dancing', 'without', 'legs']",dancing without legs
+141,2/22/2022,8:43:43 AM, just expect the worse that way you wont be disappointed,Negative,Game,"['expect', 'worse', 'way', 'wont', 'disappointed']",expect worse way wont disappointed
+142,2/23/2022,7:31:21 PM, pvp vendor are the same.. no new gear til tuesday,Negative,Game,"['pvp', 'vendor', 'new', 'gear', 'til', 'tuesday']",pvp vendor new gear til tuesday
+143,2/23/2022,10:29:37 AM," ah, okatdh's right, i missed the recent tweet from sub dev #145",Negative,Game,"['ah', 'okatdh', 'right', 'missed', 'recent', 'tweet', 'sub', 'dev']",ah okatdh right missed recent tweet sub dev
+144,2/23/2022,11:48:18 AM, lol,Negative,Game,['lol'],lol
+145,2/22/2022,8:15:23 AM," i was working all week then on call and had to work my 2 days off, now i finally have today off and the fucking servers are gonna be down",Negative,Game,"['working', 'week', 'call', 'work', 'days', 'finally', 'today', 'fucking', 'servers', 'gonna']",working week call work days finally today fucking servers gonna
+146,2/22/2022,9:59:47 PM, why did i just get rolled back wtf,Negative,Game,"['get', 'rolled', 'back', 'wtf']",get rolled back wtf
+147,2/22/2022,10:35:33 PM," just remember with out boosting or legendarys, no wow token sales, they just going to replace one evil with another.",Negative,Game,"['remember', 'boosting', 'legendarys', 'wow', 'token', 'sales', 'going', 'replace', 'one', 'evil', 'another']",remember boosting legendarys wow token sales going replace one evil another
+148,2/23/2022,7:30:55 PM, campaign is resident jfc,Negative,Game,"['campaign', 'resident', 'jfc']",campaign resident jfc
+149,2/23/2022,2:09:45 PM, unsub you'll be happier,Negative,Game,"['unsub', 'happier']",unsub happier
+150,2/22/2022,8:42:45 AM, when nothing's working all i want to do is play,Negative,Game,"['nothing', 'working', 'want', 'play']",nothing working want play
+151,2/22/2022,8:59:40 PM, lol it doing the same for me,Negative,Game,['lol'],lol
+152,2/22/2022,8:40:55 PM," well, that sucks",Negative,Game,"['well', 'sucks']",well sucks
+153,2/22/2022,9:22:25 PM, wtb d/c,Negative,Game,"['wtb', 'c']",wtb c
+154,2/23/2022,3:00:45 PM, cmon blizz,Negative,Game,"['cmon', 'blizz']",cmon blizz
+155,2/22/2022,9:21:11 PM, onlyfans at this rate,Negative,Game,"['onlyfans', 'rate']",onlyfans rate
+156,2/22/2022,6:02:43 PM, the new zone is terrible,Negative,Game,"['new', 'zone', 'terrible']",new zone terrible
+157,2/22/2022,6:07:13 PM, lol,Negative,Game,['lol'],lol
+158,2/23/2022,12:58:16 AM, yeah ,Negative,Game,['yeah'],yeah
+159,2/22/2022,6:18:04 PM, after about 1000 quests.,Negative,Game,['quests'],quests
+160,2/23/2022,5:27:27 PM, how tf do i get back to zerteth,Negative,Game,"['tf', 'get', 'back', 'zerteth']",tf get back zerteth
+161,2/23/2022,7:47:37 PM, the new sets almost all look like shit lmao,Negative,Game,"['new', 'sets', 'almost', 'look', 'like', 'shit', 'lmao']",new sets almost look like shit lmao
+162,2/23/2022,2:02:50 PM, lol,Negative,Game,['lol'],lol
+163,2/23/2022,5:25:57 PM, if people pay for jailers gauntlet they are a bozo ,Negative,Game,"['people', 'pay', 'jailers', 'gauntlet', 'bozo']",people pay jailers gauntlet bozo
+164,2/22/2022,9:20:44 PM, thats what im saying,Negative,Game,['saying'],saying
+165,2/23/2022,11:48:07 AM, its literally korthia but green. been there done that. zzzzzz,Negative,Game,"['literally', 'korthia', 'green', 'done', 'zzzzzz']",literally korthia green done zzzzzz
+166,2/22/2022,9:51:47 PM, jesus christ oribos,Negative,Game,"['jesus', 'christ', 'oribos']",jesus christ oribos
+167,2/22/2022,6:25:10 PM, nice one blizz,Negative,Game,"['nice', 'one', 'blizz']",nice one blizz
+168,2/23/2022,10:38:46 AM, never pay for the game again,Negative,Game,"['never', 'pay', 'game']",never pay game
+169,2/23/2022,1:08:25 AM, how much bullshit am i gonna have to do just to pvp?,Negative,Game,"['much', 'bullshit', 'gonna', 'pvp']",much bullshit gonna pvp
+170,2/22/2022,8:58:11 PM, rip wow,Negative,Game,"['rip', 'wow']",rip wow
+171,2/22/2022,8:39:23 AM, i dont want servers to go down in 20 mins d:,Negative,Game,"['want', 'servers', 'go', 'mins']",want servers go mins
+172,2/22/2022,6:10:27 PM, no one likes belfs,Negative,Game,"['one', 'likes', 'belfs']",one likes belfs
+173,2/23/2022,2:45:14 PM, wtf are these elite sets?,Negative,Game,"['wtf', 'elite', 'sets']",wtf elite sets
+174,2/22/2022,5:13:48 PM," heard dumbasses are getting boosting on mage tower. lmao, idiots",Negative,Game,"['heard', 'dumbasses', 'getting', 'boosting', 'mage', 'tower', 'lmao', 'idiots']",heard dumbasses getting boosting mage tower lmao idiots
+175,2/22/2022,10:31:39 PM, the new area isnt that special,Negative,Game,"['new', 'area', 'isnt', 'special']",new area isnt special
+176,2/22/2022,8:17:12 AM," yes, yes, unjust ban, sure. get what you deserve.",Negative,Game,"['yes', 'yes', 'unjust', 'ban', 'sure', 'get', 'deserve']",yes yes unjust ban sure get deserve
+177,2/23/2022,2:45:16 PM, trash!,Negative,Game,['trash'],trash
+178,2/22/2022,9:37:11 PM, truth crashed the servers,Negative,Game,"['truth', 'crashed', 'servers']",truth crashed servers
+179,2/22/2022,8:43:36 AM," like i said, tomorrow",Negative,Game,"['like', 'said', 'tomorrow']",like said tomorrow
+180,2/23/2022,12:23:07 AM," raid, clear content, retire til 10.0",Negative,Game,"['raid', 'clear', 'content', 'retire', 'til']",raid clear content retire til
+181,2/23/2022,6:40:47 PM, its alot,Negative,Game,['alot'],alot
+182,2/23/2022,1:06:10 PM," i hope microsoft is like ""idk what you guys are doing but its not getting more subs""",Negative,Game,"['hope', 'microsoft', 'like', 'idk', 'guys', 'getting', 'subs']",hope microsoft like idk guys getting subs
+183,2/23/2022,1:08:48 AM, are the fuckin portals to org in oribos broken they made me dc twice now in the loading screen,Negative,Game,"['fuckin', 'portals', 'org', 'oribos', 'broken', 'made', 'dc', 'twice', 'loading', 'screen']",fuckin portals org oribos broken made dc twice loading screen
+184,2/23/2022,3:10:02 PM, whoever did the animation for scrapforged mechaspider when idle while flying needs to be fired ,Negative,Game,"['whoever', 'animation', 'scrapforged', 'mechaspider', 'idle', 'flying', 'needs', 'fired']",whoever animation scrapforged mechaspider idle flying needs fired
+185,2/22/2022,10:40:56 PM, can you fly to the new zone lol,Negative,Game,"['fly', 'new', 'zone', 'lol']",fly new zone lol
+186,2/23/2022,9:19:10 PM," *9.2 drops, lost ark and ff player numbers see almost no change* uh oh blizzard",Negative,Game,"['9.2', 'drops', 'lost', 'ark', 'ff', 'player', 'numbers', 'see', 'almost', 'change', 'uh', 'oh', 'blizzard']",9.2 drops lost ark ff player numbers see almost change uh oh blizzard
+187,2/23/2022,7:43:40 PM, double fact,Negative,Game,"['double', 'fact']",double fact
+188,2/22/2022,5:20:36 PM, why on earth is the new honor gear not out for bg event week???,Negative,Game,"['earth', 'new', 'honor', 'gear', 'bg', 'event', 'week']",earth new honor gear bg event week
+189,2/23/2022,2:10:09 PM, ^,Negative,Game,['negative'],negative
+190,2/23/2022,1:07:26 AM, shoulda waited 3 weeks ,Negative,Game,"['shoulda', 'waited', 'weeks']",shoulda waited weeks
+191,2/22/2022,8:33:31 AM, you never take patch day off lol,Negative,Game,"['never', 'take', 'patch', 'day', 'lol']",never take patch day lol
+192,2/22/2022,9:27:43 PM, has anyone else been getting perma stuck in combat in zereth mortis?,Negative,Game,"['anyone', 'else', 'getting', 'perma', 'stuck', 'combat', 'zereth', 'mortis']",anyone else getting perma stuck combat zereth mortis
+193,2/22/2022,6:03:17 PM, one more k,Negative,Game,"['one', 'k']",one k
+194,2/23/2022,9:25:28 PM, warriors on suicide watch with these new sets,Negative,Game,"['warriors', 'suicide', 'watch', 'new', 'sets']",warriors suicide watch new sets
+195,2/23/2022,9:32:44 PM," remember when they said the ""ripcord"" didnt exist and was impossible and then pulled it the next patch when profits started to suffer? lmao",Negative,Game,"['remember', 'said', 'ripcord', 'didnt', 'exist', 'impossible', 'pulled', 'next', 'patch', 'profits', 'started', 'suffer', 'lmao']",remember said ripcord didnt exist impossible pulled next patch profits started suffer lmao
+196,2/22/2022,8:40:34 PM," yup, it seems like oribos is broken.",Negative,Game,"['yup', 'seems', 'like', 'oribos', 'broken']",yup seems like oribos broken
+197,2/22/2022,11:02:53 PM, shadowlands is garbo,Negative,Game,"['shadowlands', 'garbo']",shadowlands garbo
+198,2/22/2022,5:23:13 PM, have you tried not falling toward the sin eater?,Negative,Game,"['tried', 'falling', 'toward', 'sin', 'eater']",tried falling toward sin eater
+199,2/22/2022,8:58:42 PM, oribos bugged?,Negative,Game,"['oribos', 'bugged']",oribos bugged
+200,2/22/2022,6:09:43 PM," omg, all that time in korthia 233 trash gear.",Negative,Game,"['omg', 'time', 'korthia', 'trash', 'gear']",omg time korthia trash gear
+201,2/22/2022,8:38:37 PM, good game... rofl,Negative,Game,"['good', 'game', 'rofl']",good game rofl
+202,2/22/2022,8:07:03 PM, yeah these transmogs are fucking terrible,Negative,Game,"['yeah', 'transmogs', 'fucking', 'terrible']",yeah transmogs fucking terrible
+203,2/23/2022,1:08:42 AM," f that, bliz is still gonna scale  and u might even feel squishier as u gain ilevels,    but yea questing is going to be long so yea",Negative,Game,"['f', 'bliz', 'still', 'gonna', 'scale', 'might', 'even', 'feel', 'squishier', 'gain', 'ilevels', 'yea', 'questing', 'going', 'long', 'yea']",f bliz still gonna scale might even feel squishier gain ilevels yea questing going long yea
+204,2/22/2022,10:31:21 PM, yup,Negative,Game,['yup'],yup
+205,2/22/2022,8:33:47 AM, never do that lol always the day after,Negative,Game,"['never', 'lol', 'always', 'day']",never lol always day
+206,2/23/2022,2:08:15 PM, new patch and no new dungeons lazy fucks blizz,Negative,Game,"['new', 'patch', 'new', 'dungeons', 'lazy', 'fucks', 'blizz']",new patch new dungeons lazy fucks blizz
+207,2/23/2022,8:53:32 AM," 8 hours holy shit, that's forever",Negative,Game,"['hours', 'holy', 'shit', 'forever']",hours holy shit forever
+208,2/22/2022,8:55:18 PM, waaah stfu,Negative,Game,"['waaah', 'stfu']",waaah stfu
+209,2/23/2022,9:24:31 PM, amost alll these new class sets are dogshit dude wtf,Negative,Game,"['amost', 'alll', 'new', 'class', 'sets', 'dogshit', 'dude', 'wtf']",amost alll new class sets dogshit dude wtf
+210,2/23/2022,1:04:59 AM, more lag,Negative,Game,['lag'],lag
+211,2/22/2022,10:01:06 PM, the entire game is broken atm,Negative,Game,"['entire', 'game', 'broken', 'atm']",entire game broken atm
+212,2/22/2022,6:24:44 PM, i wonder how many people are upset because they spent so much time on the crappy korthia gear raising it to 233 and now you can just wipe you butt with it.,Negative,Game,"['wonder', 'many', 'people', 'upset', 'spent', 'much', 'time', 'crappy', 'korthia', 'gear', 'raising', 'wipe', 'butt']",wonder many people upset spent much time crappy korthia gear raising wipe butt
+213,2/23/2022,12:53:41 AM, lmfaooo,Negative,Game,['lmfaooo'],lmfaooo
+214,2/22/2022,5:21:18 PM, wanted to gear all my alts this week : /,Negative,Game,"['wanted', 'gear', 'alts', 'week']",wanted gear alts week
+215,2/22/2022,8:13:37 PM, is a hasty voyage bugging out for anyone else?,Negative,Game,"['hasty', 'voyage', 'bugging', 'anyone', 'else']",hasty voyage bugging anyone else
+216,2/23/2022,10:31:31 AM, mythic keystones look like trash,Negative,Game,"['mythic', 'keystones', 'look', 'like', 'trash']",mythic keystones look like trash
+217,2/22/2022,9:09:39 PM, sry i sharted,Negative,Game,"['sry', 'sharted']",sry sharted
+218,2/22/2022,9:03:03 PM, downside is you miss on on the initial 120 cyphers for alts but time saved,Negative,Game,"['downside', 'miss', 'initial', 'cyphers', 'alts', 'time', 'saved']",downside miss initial cyphers alts time saved
+219,2/22/2022,8:53:26 PM, if the people will pay,Negative,Game,"['people', 'pay']",people pay
+220,2/22/2022,10:11:20 PM, retail has no economy to talk about in trade chat,Negative,Game,"['retail', 'economy', 'talk', 'trade', 'chat']",retail economy talk trade chat
+221,2/23/2022,10:28:55 AM, that's when the fix is released,Negative,Game,"['fix', 'released']",fix released
+222,2/22/2022,8:47:22 PM, this raid set looks like you picked it up at the dollar store.,Negative,Game,"['raid', 'set', 'looks', 'like', 'picked', 'dollar', 'store']",raid set looks like picked dollar store
+223,2/22/2022,8:23:30 PM, isn't sod loot bugged and currently untradable?,Negative,Game,"['sod', 'loot', 'bugged', 'currently', 'untradable']",sod loot bugged currently untradable
+224,2/23/2022,2:26:22 PM," nothing to do for 2 weeks except 3 dailies, feels bad",Negative,Game,"['nothing', 'weeks', 'except', 'dailies', 'feels', 'bad']",nothing weeks except dailies feels bad
+225,2/22/2022,8:40:41 PM, cant teleport out of it either,Negative,Game,"['cant', 'teleport', 'either']",cant teleport either
+226,2/22/2022,6:20:15 PM, i'm just going to wait for legacy progression because i'm looking at the quests and the stuff you get. it's going to be like korthia. will go no where.,Negative,Game,"['going', 'wait', 'legacy', 'progression', 'looking', 'quests', 'stuff', 'get', 'going', 'like', 'korthia', 'go']",going wait legacy progression looking quests stuff get going like korthia go
+227,2/22/2022,7:58:43 PM," report ripssi, an ah bot in shrine of two moons, there are other bots(multiboxing) on the same and other realms, they all stack the same spot, nearly always logged in on the ah.",Negative,Game,"['report', 'ripssi', 'ah', 'bot', 'shrine', 'two', 'moons', 'bots', 'multiboxing', 'realms', 'stack', 'spot', 'nearly', 'always', 'logged', 'ah']",report ripssi ah bot shrine two moons bots multiboxing realms stack spot nearly always logged ah
+228,2/23/2022,9:24:39 PM, they were mostly the bad ones tbh ,Negative,Game,"['mostly', 'bad', 'ones', 'tbh']",mostly bad ones tbh
+229,2/22/2022,6:09:17 PM, yup game is trash if u didnt know now you know,Negative,Game,"['yup', 'game', 'trash', 'didnt', 'know', 'know']",yup game trash didnt know know
+230,2/22/2022,8:41:13 PM, the game always breaks,Negative,Game,"['game', 'always', 'breaks']",game always breaks
+231,2/23/2022,4:59:13 PM, hunters don't even have a spec yet lol,Negative,Game,"['hunters', 'even', 'spec', 'yet', 'lol']",hunters even spec yet lol
+232,2/22/2022,8:42:17 PM, cyberpunk 9.2,Negative,Game,"['cyberpunk', '9.2']",cyberpunk 9.2
+233,2/22/2022,11:03:09 PM," i hated bfa, don't get me wrong, but sl is worse. ",Negative,Game,"['hated', 'bfa', 'get', 'wrong', 'sl', 'worse']",hated bfa get wrong sl worse
+234,2/22/2022,6:50:14 PM, elden ring will save us,Negative,Game,"['elden', 'ring', 'save', 'us']",elden ring save us
+235,2/22/2022,9:05:47 PM, what's up with twinks in the 50 bracket? we lost a bg even though it was 10v6. most of us have like 10k health while they got 24k. hunters 1 shotting me for 19k,Negative,Game,"['twinks', 'bracket', 'lost', 'bg', 'even', 'though', 'us', 'like', 'health', 'got', 'hunters', 'shotting']",twinks bracket lost bg even though us like health got hunters shotting
+236,2/22/2022,5:01:27 PM, wtb port to org from oribos. portals not showing up,Negative,Game,"['wtb', 'port', 'org', 'oribos', 'portals', 'showing']",wtb port org oribos portals showing
+237,2/22/2022,9:21:15 PM, come on dc me already!,Negative,Game,"['come', 'dc', 'already']",come dc already
+238,2/23/2022,10:09:17 AM, orbios is bugged becasue of patch,Negative,Game,"['orbios', 'bugged', 'becasue', 'patch']",orbios bugged becasue patch
+239,2/23/2022,12:22:32 AM, so who's here just to play the patch and then quit again next week?,Negative,Game,"['play', 'patch', 'quit', 'next', 'week']",play patch quit next week
+240,2/22/2022,8:07:11 PM, ouch,Negative,Game,['ouch'],ouch
+241,2/23/2022,10:25:18 AM, stop offering ksm you clown the season is over.,Negative,Game,"['stop', 'offering', 'ksm', 'clown', 'season']",stop offering ksm clown season
+242,2/22/2022,7:29:05 PM, dead game is dead,Negative,Game,"['dead', 'game', 'dead']",dead game dead
+243,2/23/2022,7:01:19 PM, yeah if they were better i'd do it but no incentive ,Negative,Game,"['yeah', 'better', 'incentive']",yeah better incentive
+244,2/22/2022,6:10:43 PM, it doesn't matter,Negative,Game,['matter'],matter
+245,2/23/2022,1:08:50 AM, #scammed,Negative,Game,['scammed'],scammed
+246,2/22/2022,11:02:49 PM, by a mile,Negative,Game,['mile'],mile
+247,2/23/2022,5:58:08 PM, lol how inflated are teneb ribs gonna be,Negative,Game,"['lol', 'inflated', 'teneb', 'ribs', 'gonna']",lol inflated teneb ribs gonna
+248,2/22/2022,5:27:16 PM, im so confused,Negative,Game,['confused'],confused
+249,2/23/2022,5:20:28 PM, for the 262 ring? ouch,Negative,Game,"['ring', 'ouch']",ring ouch
+250,2/22/2022,9:21:10 PM, always the same complaints and we´re still paying 15 bucks for this crap,Negative,Game,"['always', 'complaints', 'still', 'paying', 'bucks', 'crap']",always complaints still paying bucks crap
+251,2/23/2022,10:30:25 AM, unsub,Negative,Game,['unsub'],unsub
+252,2/23/2022,10:29:39 AM, alot of times they don't fix stuff is why i'm asking,Negative,Game,"['alot', 'times', 'fix', 'stuff', 'asking']",alot times fix stuff asking
+253,2/22/2022,8:06:47 PM, lol,Negative,Game,['lol'],lol
+254,2/22/2022,9:20:11 PM, wouldnt be a major patch without server crashes,Negative,Game,"['wouldnt', 'major', 'patch', 'without', 'server', 'crashes']",wouldnt major patch without server crashes
+255,2/23/2022,6:21:40 PM, cant even make gold on new mats cuz they aint worth a fuk,Negative,Game,"['cant', 'even', 'make', 'gold', 'new', 'mats', 'cuz', 'aint', 'worth', 'fuk']",cant even make gold new mats cuz aint worth fuk
+256,2/22/2022,8:39:56 AM, rly ?,Negative,Game,['rly'],rly
+257,2/23/2022,7:46:13 PM, new priest set looks like every other priest set in the game lmao,Negative,Game,"['new', 'priest', 'set', 'looks', 'like', 'every', 'priest', 'set', 'game', 'lmao']",new priest set looks like every priest set game lmao
+258,2/22/2022,10:53:41 PM, that lag,Negative,Game,['lag'],lag
+259,2/22/2022,10:34:48 PM, same. end this trash,Negative,Game,"['end', 'trash']",end trash
+260,2/23/2022,9:24:14 PM, wow players are down big time. biggest part went to final fantasy 14,Negative,Game,"['wow', 'players', 'big', 'time', 'biggest', 'part', 'went', 'final', 'fantasy']",wow players big time biggest part went final fantasy
+261,2/22/2022,6:03:07 PM, k,Negative,Game,['k'],k
+262,2/23/2022,7:00:24 PM, agreed,Negative,Game,['agreed'],agreed
+263,2/23/2022,1:04:57 AM, oh lord,Negative,Game,"['oh', 'lord']",oh lord
+264,2/23/2022,4:47:36 PM, is anyone elses bnet friendas list broken?,Negative,Game,"['anyone', 'elses', 'bnet', 'friendas', 'list', 'broken']",anyone elses bnet friendas list broken
+265,2/22/2022,9:19:52 PM, server d/c,Negative,Game,"['server', 'c']",server c
+266,2/23/2022,7:46:15 PM, lol nice g name,Negative,Game,"['lol', 'nice', 'g', 'name']",lol nice g name
+267,2/22/2022,11:43:11 PM, alliance sucks anyways just tell him to play horde,Negative,Game,"['alliance', 'sucks', 'anyways', 'tell', 'play', 'horde']",alliance sucks anyways tell play horde
+268,2/23/2022,7:43:05 PM, new hunter set is kinda ass lmao,Negative,Game,"['new', 'hunter', 'set', 'kinda', 'ass', 'lmao']",new hunter set kinda ass lmao
+269,2/23/2022,10:35:19 AM, like wtf.... waited for half year + but there still not out yet. wtf,Negative,Game,"['like', 'wtf', 'waited', 'half', 'year', 'still', 'yet', 'wtf']",like wtf waited half year still yet wtf
+270,2/22/2022,8:17:29 AM, dont worry buy a new one on blizzard shop then get ur self carried  :d,Negative,Game,"['worry', 'buy', 'new', 'one', 'blizzard', 'shop', 'get', 'self', 'carried']",worry buy new one blizzard shop get self carried
+271,2/22/2022,7:00:03 PM," ppl that just say ""guild offering"" and dont put their guild r probably just scammers anyway",Negative,Game,"['ppl', 'say', 'guild', 'offering', 'put', 'guild', 'r', 'probably', 'scammers', 'anyway']",ppl say guild offering put guild r probably scammers anyway
+272,2/22/2022,9:19:57 PM, yolo,Negative,Game,['yolo'],yolo
+273,2/23/2022,1:05:11 AM, ring it,Negative,Game,['ring'],ring
+274,2/23/2022,4:06:05 PM, is the shop not working for anyone?,Negative,Game,"['shop', 'working', 'anyone']",shop working anyone
+275,2/23/2022,9:28:41 PM," also the ""wow will be great next xpac"" cope has been a thing for the last 3 xpacs",Negative,Game,"['also', 'wow', 'great', 'next', 'xpac', 'cope', 'thing', 'last', 'xpacs']",also wow great next xpac cope thing last xpacs
+276,2/23/2022,3:21:46 PM, dang it,Negative,Game,['dang'],dang
+277,2/23/2022,10:52:21 AM, no the best gold farm on wow. is not even on wow... if that makes any sense,Negative,Game,"['best', 'gold', 'farm', 'wow', 'even', 'wow', 'makes', 'sense']",best gold farm wow even wow makes sense
+278,2/23/2022,1:09:54 PM, scamming,Negative,Game,['scamming'],scamming
+279,2/22/2022,7:22:48 PM, these sets are a joke lol,Negative,Game,"['sets', 'joke', 'lol']",sets joke lol
+280,2/23/2022,2:30:43 PM, yep theyre crashing pretty hard,Negative,Game,"['yep', 'theyre', 'crashing', 'pretty', 'hard']",yep theyre crashing pretty hard
+281,2/23/2022,12:53:11 AM, final week to pay someone to have a chance at getting what will be lfr loot next week,Negative,Game,"['final', 'week', 'pay', 'someone', 'chance', 'getting', 'lfr', 'loot', 'next', 'week']",final week pay someone chance getting lfr loot next week
+282,2/23/2022,7:31:45 PM, sl story so zz,Negative,Game,"['sl', 'story', 'zz']",sl story zz
+283,2/23/2022,10:37:37 AM, until now its literally a gas station toilet shit,Negative,Game,"['literally', 'gas', 'station', 'toilet', 'shit']",literally gas station toilet shit
+284,2/22/2022,9:19:22 PM, lmao lag,Negative,Game,"['lmao', 'lag']",lmao lag
+285,2/22/2022,8:33:16 AM, fuuuck i had today off,Negative,Game,"['fuuuck', 'today']",fuuuck today
+286,2/22/2022,6:37:37 PM, imagine playing the whole time last patch,Negative,Game,"['imagine', 'playing', 'whole', 'time', 'last', 'patch']",imagine playing whole time last patch
+287,2/22/2022,10:01:17 PM, can anyone else not log into their oribos toons??? please,Negative,Game,"['anyone', 'else', 'log', 'oribos', 'toons', 'please']",anyone else log oribos toons please
+288,2/22/2022,11:02:33 PM, shadowlands is worst than bfa,Negative,Game,"['shadowlands', 'worst', 'bfa']",shadowlands worst bfa
+289,2/22/2022,10:11:14 PM," classic is terrible, this game became good on mop",Negative,Game,"['classic', 'terrible', 'game', 'became', 'good', 'mop']",classic terrible game became good mop
+290,2/23/2022,1:15:25 AM, dont think so,Negative,Game,['think'],think
+291,2/22/2022,5:14:48 PM, lame,Negative,Game,['lame'],lame
+292,2/22/2022,6:25:08 PM," i'm just upset that my game crashed on the way into zereth, and now i have no way to get back to it",Negative,Game,"['upset', 'game', 'crashed', 'way', 'zereth', 'way', 'get', 'back']",upset game crashed way zereth way get back
+293,2/22/2022,6:18:13 PM, you get the belt.,Negative,Game,"['get', 'belt']",get belt
+294,2/23/2022,8:43:40 AM, shower time already blizz!!?!?!?,Negative,Game,"['shower', 'time', 'already', 'blizz']",shower time already blizz
+295,2/23/2022,7:00:57 PM, ew thats so ugly,Negative,Game,"['ew', 'ugly']",ew ugly
+296,2/23/2022,2:30:48 PM," the servers, games fun ",Negative,Game,"['servers', 'games', 'fun']",servers games fun
+297,2/23/2022,12:58:19 AM, im flying without a mount,Negative,Game,"['flying', 'without', 'mount']",flying without mount
+298,2/23/2022,2:22:00 PM, when was feral ever great,Negative,Game,"['feral', 'ever', 'great']",feral ever great
+299,2/22/2022,6:26:24 PM, i guess i going to quit my job. get some welfare and begin practicing mythic raids.,Negative,Game,"['guess', 'going', 'quit', 'job', 'get', 'welfare', 'begin', 'practicing', 'mythic', 'raids']",guess going quit job get welfare begin practicing mythic raids
+300,2/22/2022,9:03:14 PM, do those even matter really,Negative,Game,"['even', 'matter', 'really']",even matter really
+301,2/22/2022,10:59:42 PM, are the npcs not appearing for anyone else,Negative,Game,"['npcs', 'appearing', 'anyone', 'else']",npcs appearing anyone else
+302,2/22/2022,8:33:37 AM, imagine taking the patch day off,Negative,Game,"['imagine', 'taking', 'patch', 'day']",imagine taking patch day
+303,2/22/2022,8:07:14 PM, who tf would think that shit is nice,Negative,Game,"['tf', 'would', 'think', 'shit', 'nice']",tf would think shit nice
+304,2/22/2022,10:31:12 PM, oribos lag?,Negative,Game,"['oribos', 'lag']",oribos lag
+305,2/23/2022,2:10:14 PM, it's a depressing expac. who wants to play in hell every day?,Negative,Game,"['depressing', 'expac', 'wants', 'play', 'hell', 'every', 'day']",depressing expac wants play hell every day
+306,2/22/2022,8:15:51 PM, yea it boring alts suck,Negative,Game,"['yea', 'boring', 'alts', 'suck']",yea boring alts suck
+307,2/23/2022,10:08:44 AM, can i get an org protal in oribos?  i'm bugged with no portals.,Negative,Game,"['get', 'org', 'protal', 'oribos', 'bugged', 'portals']",get org protal oribos bugged portals
+308,2/22/2022,8:09:18 PM, so the 2nd lego is rep locked? lmao,Negative,Game,"['lego', 'rep', 'locked', 'lmao']",lego rep locked lmao
+309,2/22/2022,8:33:43 AM, when u aint playin for at least 8 hours,Negative,Game,"['aint', 'playin', 'least', 'hours']",aint playin least hours
+310,2/22/2022,8:41:21 AM, i hope one day in like 50 yrs maybe they can just upload a patch without taking the game down,Negative,Game,"['hope', 'one', 'day', 'like', 'yrs', 'maybe', 'upload', 'patch', 'without', 'taking', 'game']",hope one day like yrs maybe upload patch without taking game
+311,2/23/2022,10:28:31 AM, anybody know if they are going to fix the patch issues thats going on?,Negative,Game,"['anybody', 'know', 'going', 'fix', 'patch', 'issues', 'going']",anybody know going fix patch issues going
+312,2/22/2022,10:37:23 PM, i wasnt offered a quest because i didnt do my kyrian campaign or korthia shit,Negative,Game,"['wasnt', 'offered', 'quest', 'didnt', 'kyrian', 'campaign', 'korthia', 'shit']",wasnt offered quest didnt kyrian campaign korthia shit
+313,2/23/2022,11:47:39 AM, well the new zone sucks,Negative,Game,"['well', 'new', 'zone', 'sucks']",well new zone sucks
+314,2/22/2022,8:41:43 PM, oribos is down,Negative,Game,['oribos'],oribos
+315,2/22/2022,9:19:41 PM, oh fuk lag,Negative,Game,"['oh', 'fuk', 'lag']",oh fuk lag
+316,2/22/2022,6:11:37 PM, i guess that's why i quit 5 years ago.,Negative,Game,"['guess', 'quit', 'years', 'ago']",guess quit years ago
+317,2/22/2022,7:32:10 PM, tf am i supposed to do all week,Negative,Game,"['tf', 'supposed', 'week']",tf supposed week
+318,2/22/2022,6:29:11 PM, nno,Negative,Game,['nno'],nno
+319,2/22/2022,5:28:15 PM, why'd they nerf ilvl wq rewards so much?,Negative,Game,"['nerf', 'ilvl', 'wq', 'rewards', 'much']",nerf ilvl wq rewards much
+320,2/22/2022,11:25:38 PM, tf is everyone lol,Negative,Game,"['tf', 'everyone', 'lol']",tf everyone lol
+321,2/22/2022,9:00:26 PM, helllllllp,Negative,Game,['helllllllp'],helllllllp
+322,2/23/2022,12:58:06 AM, server dying?,Negative,Game,"['server', 'dying']",server dying
+323,2/22/2022,6:03:27 PM," not exactly tough competition, there, with zones",Negative,Game,"['exactly', 'tough', 'competition', 'zones']",exactly tough competition zones
+324,2/22/2022,8:59:00 PM, org is very broke,Negative,Game,"['org', 'broke']",org broke
+325,2/22/2022,8:39:02 AM," ""happy patch day, i feel so broken i hope we're gonna be okay. when nothing's working all i want to do is play""",Negative,Game,"['happy', 'patch', 'day', 'feel', 'broken', 'hope', 'gonna', 'okay', 'nothing', 'working', 'want', 'play']",happy patch day feel broken hope gonna okay nothing working want play
+326,2/23/2022,1:06:26 AM, i just subbed back and a major city is broken,Negative,Game,"['subbed', 'back', 'major', 'city', 'broken']",subbed back major city broken
+327,2/22/2022,8:41:00 PM, how do i get my old cheetah this new one is shit,Negative,Game,"['get', 'old', 'cheetah', 'new', 'one', 'shit']",get old cheetah new one shit
+328,2/23/2022,1:05:15 AM, *bring,Negative,Game,['bring'],bring
+329,2/22/2022,7:29:18 PM, loll this isint a patch,Negative,Game,"['loll', 'isint', 'patch']",loll isint patch
+330,2/22/2022,7:18:48 PM, what dafuck the new stuff at,Negative,Game,"['dafuck', 'new', 'stuff']",dafuck new stuff
+331,2/23/2022,7:47:23 PM, nice game get on to dc and cant do nothing but type,Negative,Game,"['nice', 'game', 'get', 'dc', 'cant', 'nothing', 'type']",nice game get dc cant nothing type
+332,2/22/2022,10:39:36 PM," i waited 22 min to get into last brawl just to have 8 people afk, few lost in a street and 1 guy running from a dk",Negative,Game,"['waited', 'min', 'get', 'last', 'brawl', 'people', 'afk', 'lost', 'street', 'guy', 'running', 'dk']",waited min get last brawl people afk lost street guy running dk
+333,2/22/2022,8:16:26 PM, i don't want to do the campaign it's super resident :c,Negative,Game,"['want', 'campaign', 'super', 'resident', 'c']",want campaign super resident c
+334,2/23/2022,1:34:05 PM, wish people who didnt do any of the sl campaign could just go to the new zone ,Negative,Game,"['wish', 'people', 'didnt', 'sl', 'campaign', 'could', 'go', 'new', 'zone']",wish people didnt sl campaign could go new zone
+335,2/23/2022,7:56:42 PM, nobody's got time for dialys ,Negative,Game,"['nobody', 'got', 'time', 'dialys']",nobody got time dialys
+336,2/22/2022,8:06:40 PM, who desgin this?,Negative,Game,['desgin'],desgin
+337,2/22/2022,8:43:12 AM, i wouldnt expect to play until fairly late tonight,Negative,Game,"['wouldnt', 'expect', 'play', 'fairly', 'late', 'tonight']",wouldnt expect play fairly late tonight
+338,2/22/2022,8:08:08 PM, lmao,Negative,Game,['lmao'],lmao
+339,2/22/2022,6:26:05 PM, korthia gear was the most useless function of this game of all time,Negative,Game,"['korthia', 'gear', 'useless', 'function', 'game', 'time']",korthia gear useless function game time
+340,2/22/2022,11:03:39 PM, im waiting for my sub to end so i can just pvp on my twink ,Negative,Game,"['waiting', 'sub', 'end', 'pvp', 'twink']",waiting sub end pvp twink
+341,2/22/2022,7:29:25 PM, kek,Negative,Game,['kek'],kek
+342,2/23/2022,9:22:34 PM," ""nah bro wow player numbers are the same as always no one left the game for other ones!"" okay lmao",Negative,Game,"['nah', 'bro', 'wow', 'player', 'numbers', 'always', 'one', 'left', 'game', 'ones', 'okay', 'lmao']",nah bro wow player numbers always one left game ones okay lmao
+343,2/22/2022,9:20:00 PM, later boys,Negative,Game,"['later', 'boys']",later boys
+344,2/23/2022,10:12:09 PM, the pvp gear looks like trash this tier,Negative,Game,"['pvp', 'gear', 'looks', 'like', 'trash', 'tier']",pvp gear looks like trash tier
+345,2/22/2022,7:28:58 PM, things seem kind of dead for a new patch,Negative,Game,"['things', 'seem', 'kind', 'dead', 'new', 'patch']",things seem kind dead new patch
+346,2/22/2022,5:48:02 PM, :(,Negative,Game,['negative'],negative
+347,2/22/2022,11:38:42 PM, its in the process of crashing,Negative,Game,"['process', 'crashing']",process crashing
+348,2/22/2022,8:41:20 AM, hopefully only 3-4 :/,Negative,Game,['hopefully'],hopefully
+349,2/23/2022,9:25:58 PM, nice try ripdonvito i already canceled my sub just playing til tomorrow,Negative,Game,"['nice', 'try', 'ripdonvito', 'already', 'canceled', 'sub', 'playing', 'til', 'tomorrow']",nice try ripdonvito already canceled sub playing til tomorrow
+350,2/22/2022,6:36:58 PM, imagine needing catch up gear,Negative,Game,"['imagine', 'needing', 'catch', 'gear']",imagine needing catch gear
+351,2/22/2022,8:15:41 PM," bro i dont want to do that shit,for real man ",Negative,Game,"['bro', 'want', 'shit', 'real', 'man']",bro want shit real man
+352,2/22/2022,5:48:35 PM, i just dont have it,Negative,Game,['negative'],negative
+353,2/22/2022,8:56:07 PM, so is anyone else getting ported back to oribos during a hasty voyage?,Negative,Game,"['anyone', 'else', 'getting', 'ported', 'back', 'oribos', 'hasty', 'voyage']",anyone else getting ported back oribos hasty voyage
+354,2/22/2022,8:41:36 AM, racing towards lvl 50 before i get zanosed by blizz,Negative,Game,"['racing', 'towards', 'lvl', 'get', 'zanosed', 'blizz']",racing towards lvl get zanosed blizz
+355,2/23/2022,10:45:31 AM, f,Negative,Game,['f'],f
+356,2/22/2022,6:06:22 PM, lol veild market heroic will only give 155 gear.,Negative,Game,"['lol', 'veild', 'market', 'heroic', 'give', 'gear']",lol veild market heroic give gear
+357,2/22/2022,8:06:36 PM, ugly as fuckgaze of the infinite infantrypauldrons of the infinite infantry,Negative,Game,"['ugly', 'fuckgaze', 'infinite', 'infantrypauldrons', 'infinite', 'infantry']",ugly fuckgaze infinite infantrypauldrons infinite infantry
+358,2/22/2022,8:15:44 AM, i am nerd raging hard. i am untethered and my rage knows no bounds,Negative,Game,"['nerd', 'raging', 'hard', 'untethered', 'rage', 'knows', 'bounds']",nerd raging hard untethered rage knows bounds
+359,2/22/2022,8:12:49 PM, frost mages get nerfed sadge,Negative,Game,"['frost', 'mages', 'get', 'nerfed', 'sadge']",frost mages get nerfed sadge
+360,2/23/2022,10:10:11 AM, i have no portals,Negative,Game,['portals'],portals
+361,2/23/2022,2:35:36 PM, if u want your account suspended for 30 days keep buying those boost guys,Negative,Game,"['want', 'account', 'suspended', 'days', 'keep', 'buying', 'boost', 'guys']",want account suspended days keep buying boost guys
+362,2/22/2022,6:55:35 PM, so basically nothing else,Negative,Game,"['basically', 'nothing', 'else']",basically nothing else
+363,2/23/2022,8:52:52 AM, the end of the world is near!,Negative,Game,"['end', 'world', 'near']",end world near
+364,2/22/2022,11:02:49 PM, new zone boring ,Negative,Game,"['new', 'zone', 'boring']",new zone boring
+365,2/22/2022,8:08:08 PM, well penis,Negative,Game,"['well', 'penis']",well penis
+366,2/22/2022,9:21:13 PM, i cant exit,Negative,Game,"['cant', 'exit']",cant exit
+367,2/23/2022,1:07:49 AM," they told me ""if u start late u will be behind on rep/materials"" and shit",Negative,Game,"['told', 'start', 'late', 'behind', 'rep', 'materials', 'shit']",told start late behind rep materials shit
+368,2/23/2022,1:22:53 PM, gomikkafgar-area52 is a scammer 100%,Negative,Game,"['gomikkafgar', 'area', 'scammer']",gomikkafgar area scammer
+369,2/22/2022,8:12:50 PM, rip all those werebear skins sadge,Negative,Game,"['rip', 'werebear', 'skins', 'sadge']",rip werebear skins sadge
+370,2/22/2022,7:30:57 PM," never gonna happen, this is a pve game now",Negative,Game,"['never', 'gonna', 'happen', 'pve', 'game']",never gonna happen pve game
+371,2/22/2022,8:53:01 PM, 126k for 262 mail boot leggo? ya'll are scammers!,Negative,Game,"['mail', 'boot', 'leggo', 'ya', 'scammers']",mail boot leggo ya scammers
+372,2/22/2022,9:00:21 PM, silly indie devs,Negative,Game,"['silly', 'indie', 'devs']",silly indie devs
+373,2/22/2022,11:25:58 PM, dcs are weird,Negative,Game,"['dcs', 'weird']",dcs weird
+374,2/23/2022,5:10:41 PM, hah,Negative,Game,['hah'],hah
+375,2/22/2022,8:58:49 PM, same with orgrimmar,Negative,Game,['orgrimmar'],orgrimmar
+376,2/22/2022,6:07:11 PM, unsub,Negative,Game,['unsub'],unsub
+377,2/22/2022,8:41:11 PM, it always like this on patch launch days,Negative,Game,"['always', 'like', 'patch', 'launch', 'days']",always like patch launch days
+378,2/23/2022,7:44:22 PM, triple fact,Negative,Game,"['triple', 'fact']",triple fact
+379,2/22/2022,8:19:02 AM, gosh darn boosterino's,Negative,Game,"['gosh', 'darn', 'boosterino']",gosh darn boosterino
+380,2/23/2022,12:58:03 AM, dead?,Negative,Game,['dead'],dead
+381,2/23/2022,9:45:42 PM, how do i get back to new zone??? ,Negative,Game,"['get', 'back', 'new', 'zone']",get back new zone
+382,2/22/2022,8:58:55 PM, pvp gear is the same??? the whole purpose of wow is pvp,Negative,Game,"['pvp', 'gear', 'whole', 'purpose', 'wow', 'pvp']",pvp gear whole purpose wow pvp
+383,2/23/2022,6:40:34 PM, wat the fuck is this game,Negative,Game,"['wat', 'fuck', 'game']",wat fuck game
+384,2/23/2022,8:53:07 AM," i just got here, how long is it?",Negative,Game,"['got', 'long']",got long
+385,2/22/2022,8:08:02 PM, shoulders look like a kids portapotty on fire,Negative,Game,"['shoulders', 'look', 'like', 'kids', 'portapotty', 'fire']",shoulders look like kids portapotty fire
+386,2/23/2022,1:15:44 AM, wont be for a bit probably,Negative,Game,"['wont', 'bit', 'probably']",wont bit probably
+387,2/22/2022,9:20:09 PM, im to young =(,Negative,Game,['young'],young
+388,2/22/2022,6:30:03 PM, get scammed ,Negative,Game,"['get', 'scammed']",get scammed
+389,2/22/2022,8:58:52 PM, org broke,Negative,Game,"['org', 'broke']",org broke
+390,2/22/2022,5:18:24 PM, so all we get access to is dreadful pve zones??,Negative,Game,"['get', 'access', 'dreadful', 'pve', 'zones']",get access dreadful pve zones
+391,2/22/2022,8:40:18 PM, oribis is broken,Negative,Game,"['oribis', 'broken']",oribis broken
+392,2/22/2022,6:56:17 PM, i mean almost 9 months with the same patch,Negative,Game,"['mean', 'almost', 'months', 'patch']",mean almost months patch
+393,2/23/2022,3:00:41 PM, wtf is this halfway patch? ,Negative,Game,"['wtf', 'halfway', 'patch']",wtf halfway patch
+394,2/23/2022,10:29:54 AM, nothing getting fixed #deadgame,Negative,Game,"['nothing', 'getting', 'fixed', 'deadgame']",nothing getting fixed deadgame
+395,2/22/2022,8:23:30 PM, that a scam mary,Negative,Game,"['scam', 'mary']",scam mary
+396,2/23/2022,1:07:10 AM, worst mistake of my life,Negative,Game,"['worst', 'mistake', 'life']",worst mistake life
+397,2/22/2022,6:06:50 PM, what do we do now,Negative,Game,['negative'],negative
+398,2/22/2022,5:49:05 PM, mage season 3 gear looks awful,Negative,Game,"['mage', 'season', 'gear', 'looks', 'awful']",mage season gear looks awful
+399,2/22/2022,5:30:18 PM, nope,Negative,Game,['nope'],nope
+400,2/22/2022,9:20:56 PM, donate at blizzard's gofundme,Negative,Game,"['donate', 'blizzard', 'gofundme']",donate blizzard gofundme
+401,2/23/2022,7:00:15 PM, the jailors gauntlet mounts are trash,Negative,Game,"['jailors', 'gauntlet', 'mounts', 'trash']",jailors gauntlet mounts trash
+402,2/23/2022,10:30:15 AM," yeah they havent released a new patch to the game in almost 24 hours, this shits dead",Negative,Game,"['yeah', 'havent', 'released', 'new', 'patch', 'game', 'almost', 'hours', 'shits', 'dead']",yeah havent released new patch game almost hours shits dead
+403,2/22/2022,8:55:33 PM, honestly i dont think the 2 leggo is exciting,Negative,Game,"['honestly', 'think', 'leggo', 'exciting']",honestly think leggo exciting
+404,2/23/2022,1:14:56 AM, org port fixed yet?,Negative,Game,"['org', 'port', 'fixed', 'yet']",org port fixed yet
+405,2/22/2022,8:07:07 PM, cloth got done dorty too erudite occultist's mantleerudite occultist's hood,Negative,Game,"['cloth', 'got', 'done', 'dorty', 'erudite', 'occultist', 'mantleerudite', 'occultist', 'hood']",cloth got done dorty erudite occultist mantleerudite occultist hood
+406,2/23/2022,9:35:20 PM," blind brand loyalty and cope will only lead to a product getting worse, notice how after people actually started to quit theyve made changes?",Negative,Game,"['blind', 'brand', 'loyalty', 'cope', 'lead', 'product', 'getting', 'worse', 'notice', 'people', 'actually', 'started', 'quit', 'theyve', 'made', 'changes']",blind brand loyalty cope lead product getting worse notice people actually started quit theyve made changes
+407,2/22/2022,8:33:33 AM, bro same no wow on my day off from work ,Negative,Game,"['bro', 'wow', 'day', 'work']",bro wow day work
+408,2/22/2022,8:42:05 PM, arbitor is on break,Negative,Game,"['arbitor', 'break']",arbitor break
+409,2/22/2022,8:53:37 PM, if the people  *have* to pay,Negative,Game,"['people', 'pay']",people pay
+410,2/22/2022,8:40:47 AM," yea, they couldn't have, like, done any of this slowly over the last few weeks. gotta take the game down for an entire day lol",Negative,Game,"['yea', 'like', 'done', 'slowly', 'last', 'weeks', 'gotta', 'take', 'game', 'entire', 'day', 'lol']",yea like done slowly last weeks gotta take game entire day lol
+411,2/23/2022,1:08:40 AM, lol,Negative,Game,['lol'],lol
+412,2/23/2022,1:07:04 AM, the problem is that u subbed back,Negative,Game,"['problem', 'subbed', 'back']",problem subbed back
+413,2/22/2022,11:50:53 PM, they wont do it,Negative,Game,['wont'],wont
+414,2/23/2022,7:45:28 PM, new lock set looks like a priest set,Negative,Game,"['new', 'lock', 'set', 'looks', 'like', 'priest', 'set']",new lock set looks like priest set
+415,2/22/2022,6:29:47 PM, you will,Negative,Game,['negative'],negative
+416,2/23/2022,1:05:25 AM, whats up with ogrimmar? cant tp there,Negative,Game,"['whats', 'ogrimmar', 'cant', 'tp']",whats ogrimmar cant tp
+417,2/23/2022,10:39:18 AM, well i buy other games when they come out on blizzard usually js. wow gold = blizzard currency,Other,Game,"['well', 'buy', 'games', 'come', 'blizzard', 'usually', 'js', 'wow', 'gold', 'blizzard', 'currency']",well buy games come blizzard usually js wow gold blizzard currency
+418,2/22/2022,8:42:35 AM, happy patch day,Other,Game,"['happy', 'patch', 'day']",happy patch day
+419,2/23/2022,6:27:09 PM, what's up bud,Other,Game,['bud'],bud
+420,2/22/2022,11:11:49 PM, 9.twosday,Other,Game,['twosday'],twosday
+421,2/23/2022,2:30:53 PM, you never stop playing wow,Other,Game,"['never', 'stop', 'playing', 'wow']",never stop playing wow
+422,2/22/2022,8:16:09 AM, why was it banned?,Other,Game,['banned'],banned
+423,2/22/2022,9:03:29 PM, yes for research for things,Other,Game,"['yes', 'research', 'things']",yes research things
+424,2/23/2022,12:21:39 AM, to get the goblin heritage do you still have to level one from 1-max?,Other,Game,"['get', 'goblin', 'heritage', 'still', 'level', 'one', 'max']",get goblin heritage still level one max
+425,2/22/2022,7:45:39 PM, returning player. ranged dps? one with bd enegery,Other,Game,"['returning', 'player', 'ranged', 'dps', 'one', 'bd', 'enegery']",returning player ranged dps one bd enegery
+426,2/23/2022,10:38:48 AM, you get like 10k from callings its ez,Other,Game,"['get', 'like', 'callings', 'ez']",get like callings ez
+427,2/23/2022,12:02:31 PM," yes, for this week only",Other,Game,"['yes', 'week']",yes week
+428,2/23/2022,8:10:44 AM, theres a portal on the top floor,Other,Game,"['theres', 'portal', 'top', 'floor']",theres portal top floor
+429,2/22/2022,7:53:00 PM, how come warrior? ,Other,Game,"['come', 'warrior']",come warrior
+430,2/22/2022,8:19:32 AM," i sell 2s carries,and i seen in disc about bans for boosting, was for sure thinking i get got",Other,Game,"['sell', 'carries', 'seen', 'disc', 'bans', 'boosting', 'sure', 'thinking', 'get', 'got']",sell carries seen disc bans boosting sure thinking get got
+431,2/23/2022,2:06:30 PM, ok ty,Other,Game,"['ok', 'ty']",ok ty
+432,2/22/2022,8:14:46 PM, open adventure guide,Other,Game,"['open', 'adventure', 'guide']",open adventure guide
+433,2/23/2022,5:28:07 PM, nor is m+,Other,Game,['other'],other
+434,2/22/2022,6:59:56 PM, thought that was last week?,Other,Game,"['thought', 'last', 'week']",thought last week
+435,2/23/2022,10:37:30 AM," yea i mean i made 20,000,000 off selling pets last exp",Other,Game,"['yea', 'mean', 'made', 'selling', 'pets', 'last', 'exp']",yea mean made selling pets last exp
+436,2/22/2022,11:03:24 PM, and yet your still playin funny how that works,Other,Game,"['yet', 'still', 'playin', 'funny', 'works']",yet still playin funny works
+437,2/22/2022,7:33:46 PM, they also arent going to open all content first week so you can complete it all and complain about there being no content,Other,Game,"['also', 'arent', 'going', 'open', 'content', 'first', 'week', 'complete', 'complain', 'content']",also arent going open content first week complete complain content
+438,2/22/2022,8:13:07 PM, lfg 1 person for shadowmourne quest blood infusion,Other,Game,"['lfg', 'person', 'shadowmourne', 'quest', 'blood', 'infusion']",lfg person shadowmourne quest blood infusion
+439,2/23/2022,11:48:45 AM, idk what yall talking bout puzzles i did everything there witout having to do one puzzle,Other,Game,"['idk', 'yall', 'talking', 'bout', 'puzzles', 'everything', 'witout', 'one', 'puzzle']",idk yall talking bout puzzles everything witout one puzzle
+440,2/23/2022,5:18:28 PM, you need honored to craft them i believe,Other,Game,"['need', 'honored', 'craft', 'believe']",need honored craft believe
+441,2/23/2022,1:42:08 PM," conq yes, honour, no",Other,Game,"['conq', 'yes', 'honour']",conq yes honour
+442,2/23/2022,10:28:06 AM," may not be a flex, but people may still want the mount before it can't be earned anymore",Other,Game,"['may', 'flex', 'people', 'may', 'still', 'want', 'mount', 'earned', 'anymore']",may flex people may still want mount earned anymore
+443,2/22/2022,7:02:15 PM, can anyone pm me that has played alot of dh this xpack,Other,Game,"['anyone', 'pm', 'played', 'alot', 'dh', 'xpack']",anyone pm played alot dh xpack
+444,2/23/2022,11:22:32 AM, so it doesnt matter if you undercut,Other,Game,"['doesnt', 'matter', 'undercut']",doesnt matter undercut
+445,2/23/2022,9:21:58 PM, anyone going for ce? ,Other,Game,"['anyone', 'going', 'ce']",anyone going ce
+446,2/23/2022,10:12:18 AM, yes,Other,Game,['yes'],yes
+447,2/23/2022,12:54:59 PM, use your purple hearth and walk to the org port,Other,Game,"['use', 'purple', 'hearth', 'walk', 'org', 'port']",use purple hearth walk org port
+448,2/23/2022,1:42:01 PM," if ur linking someone elses achievement, ur most likely a scammer",Other,Game,"['linking', 'someone', 'elses', 'achievement', 'likely', 'scammer']",linking someone elses achievement likely scammer
+449,2/22/2022,8:15:45 AM, eh lol i wouldn't wanna risk getting banned.,Other,Game,"['eh', 'lol', 'wanna', 'risk', 'getting', 'banned']",eh lol wanna risk getting banned
+450,2/22/2022,11:51:54 PM, yea cheetah got updated,Other,Game,"['yea', 'cheetah', 'got', 'updated']",yea cheetah got updated
+451,2/23/2022,3:49:15 PM, on day 2?,Other,Game,['day'],day
+452,2/23/2022,10:11:54 AM," newly boosted characters get sent to oribos with the ""report to your leader"" quest",Other,Game,"['newly', 'boosted', 'characters', 'get', 'sent', 'oribos', 'report', 'leader', 'quest']",newly boosted characters get sent oribos report leader quest
+453,2/22/2022,5:19:16 PM, next raid and season start,Other,Game,"['next', 'raid', 'season', 'start']",next raid season start
+454,2/22/2022,8:17:09 PM, it means boring ,Other,Game,"['means', 'boring']",means boring
+455,2/22/2022,8:15:35 PM, lol kind of obviious right,Other,Game,"['lol', 'kind', 'obviious', 'right']",lol kind obviious right
+456,2/22/2022,8:04:09 PM, how does the trinket bonus change feel in pvp,Other,Game,"['trinket', 'bonus', 'change', 'feel', 'pvp']",trinket bonus change feel pvp
+457,2/22/2022,6:26:12 PM, can you uprade a legendary from 235 to 262 ,Other,Game,"['uprade', 'legendary']",uprade legendary
+458,2/22/2022,8:23:43 PM, report gomikkafgar ,Other,Game,"['report', 'gomikkafgar']",report gomikkafgar
+459,2/22/2022,8:11:49 PM, how's arms warrior this patch,Other,Game,"['arms', 'warrior', 'patch']",arms warrior patch
+460,2/22/2022,11:43:14 PM," alliance grouping will be 9.2.5, sorry!",Other,Game,"['alliance', 'grouping', '9.2', 'sorry']",alliance grouping 9.2 sorry
+461,2/22/2022,8:40:54 AM," 8 hours, not 18",Other,Game,['hours'],hours
+462,2/22/2022,8:22:54 AM, so make sure to report them,Other,Game,"['make', 'sure', 'report']",make sure report
+463,2/23/2022,9:37:05 PM, thats a fucking lie lmao see you on tues when raid drops.  ill enjoy seeing you bitch about that and why nobody will take your low parsin ass,Other,Game,"['fucking', 'lie', 'lmao', 'see', 'tues', 'raid', 'drops', 'ill', 'enjoy', 'seeing', 'bitch', 'nobody', 'take', 'low', 'parsin', 'ass']",fucking lie lmao see tues raid drops ill enjoy seeing bitch nobody take low parsin ass
+464,2/22/2022,8:15:13 PM, no i didnt do anyt,Other,Game,"['didnt', 'anyt']",didnt anyt
+465,2/23/2022,4:58:29 PM, which legendary pce should sub rogue upgrade,Other,Game,"['legendary', 'pce', 'sub', 'rogue', 'upgrade']",legendary pce sub rogue upgrade
+466,2/22/2022,6:20:23 PM, so if i go from 2100 to 2400 can i still get gear upgrades?,Other,Game,"['go', 'still', 'get', 'gear', 'upgrades']",go still get gear upgrades
+467,2/23/2022,6:28:35 PM, i'm in the boomkin waiting room rn :(,Other,Game,"['boomkin', 'waiting', 'room', 'rn']",boomkin waiting room rn
+468,2/23/2022,1:17:28 AM, so how do i get to vash'jir? the portal uptop is there but i cant click it.,Other,Game,"['get', 'vash', 'jir', 'portal', 'uptop', 'cant', 'click']",get vash jir portal uptop cant click
+469,2/22/2022,8:33:13 AM, patch day,Other,Game,"['patch', 'day']",patch day
+470,2/22/2022,5:14:31 PM, season starts next week,Other,Game,"['season', 'starts', 'next', 'week']",season starts next week
+471,2/22/2022,10:19:54 PM, next to flight master,Other,Game,"['next', 'flight', 'master']",next flight master
+472,2/22/2022,6:50:05 PM, cosmic flux???,Other,Game,"['cosmic', 'flux']",cosmic flux
+473,2/23/2022,9:37:26 PM, i concur with the 2 warriors,Other,Game,"['concur', 'warriors']",concur warriors
+474,2/23/2022,10:30:24 AM," weather-beaten fishing hat sweet, got my hat from the daily",Other,Game,"['weather', 'beaten', 'fishing', 'hat', 'sweet', 'got', 'hat', 'daily']",weather beaten fishing hat sweet got hat daily
+475,2/23/2022,6:50:05 PM, ddungeonss and quests,Other,Game,"['ddungeonss', 'quests']",ddungeonss quests
+476,2/22/2022,8:34:53 PM, how is survival hunters doing atm? can somebody pm me?,Other,Game,"['survival', 'hunters', 'atm', 'somebody', 'pm']",survival hunters atm somebody pm
+477,2/23/2022,10:03:06 AM, i think so,Other,Game,['think'],think
+478,2/22/2022,6:21:49 PM, are  alliance members on?,Other,Game,"['alliance', 'members']",alliance members
+479,2/23/2022,2:08:40 PM, but there is,Other,Game,['other'],other
+480,2/22/2022,10:03:07 PM, glad tabards can be bought,Other,Game,"['glad', 'tabards', 'bought']",glad tabards bought
+481,2/22/2022,6:26:13 PM, goblin gliders! go gettum!,Other,Game,"['goblin', 'gliders', 'go', 'gettum']",goblin gliders go gettum
+482,2/22/2022,6:05:11 PM, new keystone icon pog,Other,Game,"['new', 'keystone', 'icon', 'pog']",new keystone icon pog
+483,2/23/2022,1:41:58 PM, will i lose my honor when season 3 starts?,Other,Game,"['lose', 'honor', 'season', 'starts']",lose honor season starts
+484,2/23/2022,12:00:33 PM, i have like 12 in my mail that i cant loot. wtf are these,Other,Game,"['like', 'mail', 'cant', 'loot', 'wtf']",like mail cant loot wtf
+485,2/23/2022,3:21:37 PM, next week,Other,Game,"['next', 'week']",next week
+486,2/23/2022,2:12:47 PM, yes,Other,Game,['yes'],yes
+487,2/23/2022,10:31:11 AM, hey dont spam away my question. can we talk about how pretty the mythic keystones are,Other,Game,"['hey', 'spam', 'away', 'question', 'talk', 'pretty', 'mythic', 'keystones']",hey spam away question talk pretty mythic keystones
+488,2/23/2022,12:02:20 PM, im pretty sure you can,Other,Game,"['pretty', 'sure']",pretty sure
+489,2/22/2022,7:52:44 PM, war,Other,Game,['war'],war
+490,2/23/2022,4:42:41 PM, paying 5k per run for a tank/healer to que theater of pain with me and leave after kul'tharok ,Other,Game,"['paying', 'per', 'run', 'tank', 'healer', 'que', 'theater', 'pain', 'leave', 'kul', 'tharok']",paying per run tank healer que theater pain leave kul tharok
+491,2/23/2022,10:28:40 AM,10,Other,Game,['other'],other
+492,2/23/2022,2:20:51 PM, what you got against us,Other,Game,"['got', 'us']",got us
+493,2/23/2022,7:22:18 PM, yes,Other,Game,['yes'],yes
+494,2/23/2022,9:44:02 PM, games been fine,Other,Game,"['games', 'fine']",games fine
+495,2/22/2022,6:29:53 PM, i mean $15 isn't worth regretting,Other,Game,"['mean', 'worth', 'regretting']",mean worth regretting
+496,2/22/2022,8:01:44 PM, just first week,Other,Game,"['first', 'week']",first week
+497,2/23/2022,2:30:03 PM, lmao,Other,Game,['lmao'],lmao
+498,2/23/2022,1:31:14 PM, well at least the patch notes arent on the website.,Other,Game,"['well', 'least', 'patch', 'notes', 'arent', 'website']",well least patch notes arent website
+499,2/22/2022,5:30:07 PM, sl raids,Other,Game,"['sl', 'raids']",sl raids
+500,2/23/2022,9:45:46 PM, i wish sales communities were still a thing,Other,Game,"['wish', 'sales', 'communities', 'still', 'thing']",wish sales communities still thing
+501,2/23/2022,9:29:23 PM," inb4 we end up with another hero class aka death knight, demon hunter, samurai",Other,Game,"['inb', 'end', 'another', 'hero', 'class', 'aka', 'death', 'knight', 'demon', 'hunter', 'samurai']",inb end another hero class aka death knight demon hunter samurai
+502,2/22/2022,10:24:04 PM, yes pretty lit right,Other,Game,"['yes', 'pretty', 'lit', 'right']",yes pretty lit right
+503,2/23/2022,9:34:42 PM, how do i get the new campain quest?,Other,Game,"['get', 'new', 'campain', 'quest']",get new campain quest
+504,2/23/2022,5:20:09 PM, but im switching to fury and they are tryna run me for 87k ,Other,Game,"['switching', 'fury', 'tryna', 'run']",switching fury tryna run
+505,2/22/2022,10:10:42 PM, anyone got a long boi i can use for a bit?,Other,Game,"['anyone', 'got', 'long', 'boi', 'use', 'bit']",anyone got long boi use bit
+506,2/22/2022,9:46:17 PM, better yet....feral or sub for 9.2????,Other,Game,"['better', 'yet', 'feral', 'sub', '9.2']",better yet feral sub 9.2
+507,2/23/2022,1:44:41 PM, should i switch to a covenant that isnt 80 for zerith mortis weeklys? do they give renown?,Other,Game,"['switch', 'covenant', 'isnt', 'zerith', 'mortis', 'weeklys', 'give', 'renown']",switch covenant isnt zerith mortis weeklys give renown
+508,2/23/2022,1:23:25 PM, boosting*,Other,Game,['boosting'],boosting
+509,2/23/2022,10:49:23 AM, currently venth i beleive,Other,Game,"['currently', 'venth', 'beleive']",currently venth beleive
+510,2/22/2022,10:36:47 PM, cause i did none of the campaign and i just want to go to the new zone,Other,Game,"['cause', 'none', 'campaign', 'want', 'go', 'new', 'zone']",cause none campaign want go new zone
+511,2/22/2022,6:55:24 PM, pvp,Other,Game,['pvp'],pvp
+512,2/22/2022,11:59:45 PM, timed 19 depleted 20,Other,Game,"['timed', 'depleted']",timed depleted
+513,2/22/2022,8:43:25 PM, how to get to oribos. hearthed to korthia and took the gateway there to oribos. it worked!,Other,Game,"['get', 'oribos', 'hearthed', 'korthia', 'took', 'gateway', 'oribos', 'worked']",get oribos hearthed korthia took gateway oribos worked
+514,2/22/2022,8:15:36 PM, dont even need to finsih sod camp,Other,Game,"['even', 'need', 'finsih', 'sod', 'camp']",even need finsih sod camp
+515,2/23/2022,5:56:03 PM, anyone know when rank 7 leggos come out?,Other,Game,"['anyone', 'know', 'rank', 'leggos', 'come']",anyone know rank leggos come
+516,2/23/2022,10:29:53 AM, they definitely fix patch issues bud,Other,Game,"['definitely', 'fix', 'patch', 'issues', 'bud']",definitely fix patch issues bud
+517,2/23/2022,1:25:21 PM, mine do not,Other,Game,['mine'],mine
+518,2/23/2022,10:49:37 AM," play the one you like, unless you are ce",Other,Game,"['play', 'one', 'like', 'unless', 'ce']",play one like unless ce
+519,2/23/2022,5:17:42 PM, when do the new legendaries come out ? ,Other,Game,"['new', 'legendaries', 'come']",new legendaries come
+520,2/23/2022,11:48:30 AM, somebody sucks at platforming lol,Other,Game,"['somebody', 'sucks', 'platforming', 'lol']",somebody sucks platforming lol
+521,2/22/2022,10:36:07 PM," ""we sell big long zoom carry! am local! big believe!""",Other,Game,"['sell', 'big', 'long', 'zoom', 'carry', 'local', 'big', 'believe']",sell big long zoom carry local big believe
+522,2/23/2022,10:34:35 AM, no there not released lol,Other,Game,"['released', 'lol']",released lol
+523,2/22/2022,8:42:43 AM, when is gonna be available to play today ?,Other,Game,"['gonna', 'available', 'play', 'today']",gonna available play today
+524,2/23/2022,10:36:58 AM, wait people care about pets?,Other,Game,"['wait', 'people', 'care', 'pets']",wait people care pets
+525,2/22/2022,8:20:33 AM, wait so its not ip ban?,Other,Game,"['wait', 'ip', 'ban']",wait ip ban
+526,2/22/2022,8:17:32 AM, naw i think he was saying he was boosting,Other,Game,"['naw', 'think', 'saying', 'boosting']",naw think saying boosting
+527,2/23/2022,2:36:15 PM, except the bans are real you scrub,Other,Game,"['except', 'bans', 'real', 'scrub']",except bans real scrub
+528,2/23/2022,10:30:48 AM, if you  really want to help weith issues either unsub or go to the bug forums and report any issues you have to put more visibility on it. ,Other,Game,"['really', 'want', 'help', 'weith', 'issues', 'either', 'unsub', 'go', 'bug', 'forums', 'report', 'issues', 'put', 'visibility']",really want help weith issues either unsub go bug forums report issues put visibility
+529,2/22/2022,10:32:55 PM, what do you mean max 10 key? like for vault piece?,Other,Game,"['mean', 'max', 'key', 'like', 'vault', 'piece']",mean max key like vault piece
+530,2/22/2022,8:22:19 AM, i know insane but it's a money con they're only banning people to keep playerrs quiet they don't really care lol,Other,Game,"['know', 'insane', 'money', 'con', 'banning', 'people', 'keep', 'playerrs', 'quiet', 'really', 'care', 'lol']",know insane money con banning people keep playerrs quiet really care lol
+531,2/23/2022,12:29:19 PM, for my legendary,Other,Game,['legendary'],legendary
+532,2/23/2022,1:42:24 PM, can i get a dalaran hearthstone without doing the lgion chain,Other,Game,"['get', 'dalaran', 'hearthstone', 'without', 'lgion', 'chain']",get dalaran hearthstone without lgion chain
+533,2/23/2022,4:09:12 PM, uhh bladestorm or dragon roar,Other,Game,"['uhh', 'bladestorm', 'dragon', 'roar']",uhh bladestorm dragon roar
+534,2/22/2022,5:46:20 PM, are the new ores n herbs out yet in the new zone?,Other,Game,"['new', 'ores', 'n', 'herbs', 'yet', 'new', 'zone']",new ores n herbs yet new zone
+535,2/23/2022,12:05:19 PM, anyone give me a hand with standard ui,Other,Game,"['anyone', 'give', 'hand', 'standard', 'ui']",anyone give hand standard ui
+536,2/23/2022,8:53:49 AM, 1 hour,Other,Game,['hour'],hour
+537,2/23/2022,2:20:34 PM, lol feral,Other,Game,"['lol', 'feral']",lol feral
+538,2/23/2022,12:54:56 PM, anyone for a 20 spires to get a 15 next week?,Other,Game,"['anyone', 'spires', 'get', 'next', 'week']",anyone spires get next week
+539,2/22/2022,10:06:06 PM, que poped :),Other,Game,"['que', 'poped']",que poped
+540,2/22/2022,6:59:05 PM, so did that person not get the memo cutting edge isnt possible from sanctum of domination lolz,Other,Game,"['person', 'get', 'memo', 'cutting', 'edge', 'isnt', 'possible', 'sanctum', 'domination', 'lolz']",person get memo cutting edge isnt possible sanctum domination lolz
+541,2/23/2022,8:04:18 PM, has anyone crafted a 291 base yet?,Other,Game,"['anyone', 'crafted', 'base', 'yet']",anyone crafted base yet
+542,2/23/2022,9:25:10 PM, most of the tier sets are actually pretty good,Other,Game,"['tier', 'sets', 'actually', 'pretty', 'good']",tier sets actually pretty good
+543,2/23/2022,1:09:06 AM, never lvld this xpac,Other,Game,"['never', 'lvld', 'xpac']",never lvld xpac
+544,2/22/2022,8:33:22 AM, yea all of us did ,Other,Game,"['yea', 'us']",yea us
+545,2/22/2022,8:13:23 PM, priests need to drink after every pull in m+,Other,Game,"['priests', 'need', 'drink', 'every', 'pull']",priests need drink every pull
+546,2/22/2022,8:50:59 PM, do you have to redo campaign on alts plss ,Other,Game,"['redo', 'campaign', 'alts', 'plss']",redo campaign alts plss
+547,2/23/2022,12:59:06 AM, call of the primus,Other,Game,"['call', 'primus']",call primus
+548,2/22/2022,7:50:42 PM," i havent played in froever, quickest way to brd from org?",Other,Game,"['havent', 'played', 'froever', 'quickest', 'way', 'brd', 'org']",havent played froever quickest way brd org
+549,2/22/2022,8:34:13 AM, all classes will be good ,Other,Game,"['classes', 'good']",classes good
+550,2/22/2022,7:17:59 PM, when does io and rating restart?,Other,Game,"['io', 'rating', 'restart']",io rating restart
+551,2/23/2022,10:03:30 AM, chapter 7 of the 9.2 campaign unlocks double leggo,Other,Game,"['chapter', '9.2', 'campaign', 'unlocks', 'double', 'leggo']",chapter 9.2 campaign unlocks double leggo
+552,2/22/2022,8:14:40 AM, 8 hours,Other,Game,['hours'],hours
+553,2/22/2022,8:15:53 PM, not all of sod,Other,Game,['sod'],sod
+554,2/22/2022,7:32:20 PM, theres not gonna be a new bg or dungeon in a patch,Other,Game,"['theres', 'gonna', 'new', 'bg', 'dungeon', 'patch']",theres gonna new bg dungeon patch
+555,2/23/2022,6:45:45 PM, yea click on the rock,Other,Game,"['yea', 'click', 'rock']",yea click rock
+556,2/22/2022,10:40:03 PM, does anyone know why it isn't offering me the quest to get into the new zone?,Other,Game,"['anyone', 'know', 'offering', 'quest', 'get', 'new', 'zone']",anyone know offering quest get new zone
+557,2/22/2022,8:16:18 AM, i got banned from d2r but i deserved it haha,Other,Game,"['got', 'banned', 'deserved', 'haha']",got banned deserved haha
+558,2/23/2022,9:29:03 PM, every wow xpac has been great,Other,Game,"['every', 'wow', 'xpac', 'great']",every wow xpac great
+559,2/23/2022,12:57:31 AM, you get a renown from like every quest,Other,Game,"['get', 'renown', 'like', 'every', 'quest']",get renown like every quest
+560,2/23/2022,7:13:57 AM, near flight master in oribos,Other,Game,"['near', 'flight', 'master', 'oribos']",near flight master oribos
+561,2/22/2022,8:39:33 AM, they are gonna be down for 18 hours,Other,Game,"['gonna', 'hours']",gonna hours
+562,2/23/2022,10:37:47 AM, battle pets is an actual massive market,Other,Game,"['battle', 'pets', 'actual', 'massive', 'market']",battle pets actual massive market
+563,2/22/2022,5:00:48 PM, the jailer's gauntlet: layer 4,Other,Game,"['jailer', 'gauntlet', 'layer']",jailer gauntlet layer
+564,2/23/2022,10:28:14 AM, oh sorry there's two--spectral lupine and spectral vulpine. vulpine i guess is a drop. lupine is revered ,Other,Game,"['oh', 'sorry', 'two', 'spectral', 'lupine', 'spectral', 'vulpine', 'vulpine', 'guess', 'drop', 'lupine', 'revered']",oh sorry two spectral lupine spectral vulpine vulpine guess drop lupine revered
+565,2/23/2022,10:05:09 AM, so if youu want to max your toon you have to get the rep,Other,Game,"['youu', 'want', 'max', 'toon', 'get', 'rep']",youu want max toon get rep
+566,2/22/2022,10:37:54 PM, try logging out and back in,Other,Game,"['try', 'logging', 'back']",try logging back
+567,2/22/2022,8:16:27 PM, do the chain quest ,Other,Game,"['chain', 'quest']",chain quest
+568,2/22/2022,10:36:33 PM, im glad justin t got a go on pass for emergency act,Other,Game,"['glad', 'justin', 'got', 'go', 'pass', 'emergency', 'act']",glad justin got go pass emergency act
+569,2/23/2022,1:08:51 AM, depends on how far behind you are,Other,Game,"['depends', 'far', 'behind']",depends far behind
+570,2/22/2022,11:41:49 PM, go talk to the spirit by bolvar,Other,Game,"['go', 'talk', 'spirit', 'bolvar']",go talk spirit bolvar
+571,2/23/2022,1:05:45 AM, dont go there for a few minutes at least,Other,Game,"['go', 'minutes', 'least']",go minutes least
+572,2/22/2022,8:12:12 PM, pretty good,Other,Game,"['pretty', 'good']",pretty good
+573,2/22/2022,7:50:38 PM, threads of fast,Other,Game,"['threads', 'fast']",threads fast
+574,2/23/2022,6:27:36 PM," yes, wolves",Other,Game,"['yes', 'wolves']",yes wolves
+575,2/22/2022,9:16:07 PM, anyone know why i can't continue ready for war,Other,Game,"['anyone', 'know', 'continue', 'ready', 'war']",anyone know continue ready war
+576,2/23/2022,7:28:03 PM, yoo the new leather sets look cool af ,Other,Game,"['yoo', 'new', 'leather', 'sets', 'look', 'cool', 'af']",yoo new leather sets look cool af
+577,2/23/2022,1:24:39 PM, are shards of dom completely useless now?,Other,Game,"['shards', 'dom', 'completely', 'useless']",shards dom completely useless
+578,2/23/2022,1:35:40 PM," ""shards of domination are now disabled in zereth mortis, the sepulcher of the first ones raid, and all pvp and dungeon content.""",Other,Game,"['shards', 'domination', 'disabled', 'zereth', 'mortis', 'sepulcher', 'first', 'ones', 'raid', 'pvp', 'dungeon', 'content']",shards domination disabled zereth mortis sepulcher first ones raid pvp dungeon content
+579,2/22/2022,11:03:36 PM, i like last 1/2 or 1/3 of bfa,Other,Game,"['like', 'last', 'bfa']",like last bfa
+580,2/22/2022,6:36:31 PM, did yesterday,Other,Game,['yesterday'],yesterday
+581,2/22/2022,8:14:42 AM, few hours ,Other,Game,['hours'],hours
+582,2/22/2022,7:31:33 PM, solo shuffle next week,Other,Game,"['solo', 'shuffle', 'next', 'week']",solo shuffle next week
+583,2/22/2022,9:46:17 PM, jungle will be the 2nd best comp in the game next to rmp in 9.2,Other,Game,"['jungle', 'best', 'comp', 'game', 'next', 'rmp', '9.2']",jungle best comp game next rmp 9.2
+584,2/22/2022,8:19:53 AM, boostie boys buying boosts in best buy backrooms,Other,Game,"['boostie', 'boys', 'buying', 'boosts', 'best', 'buy', 'backrooms']",boostie boys buying boosts best buy backrooms
+585,2/22/2022,8:42:53 AM, @insanepulls tomorrow,Other,Game,"['insanepulls', 'tomorrow']",insanepulls tomorrow
+586,2/22/2022,8:26:19 PM, i need one lol,Other,Game,"['need', 'one', 'lol']",need one lol
+587,2/23/2022,2:37:22 PM, ^,Other,Game,['other'],other
+588,2/22/2022,6:22:44 PM, when that,Other,Game,['other'],other
+589,2/22/2022,8:16:41 AM, oh no i botted lol,Other,Game,"['oh', 'botted', 'lol']",oh botted lol
+590,2/22/2022,8:37:12 AM, happy patch day  - by greyfoo,Other,Game,"['happy', 'patch', 'day', 'greyfoo']",happy patch day greyfoo
+591,2/23/2022,7:17:50 PM, anyone who plays survival at high cr? need help with something,Other,Game,"['anyone', 'plays', 'survival', 'high', 'cr', 'need', 'help', 'something']",anyone plays survival high cr need help something
+592,2/22/2022,8:16:09 PM, i just wanna pvp lmao,Other,Game,"['wanna', 'pvp', 'lmao']",wanna pvp lmao
+593,2/22/2022,7:21:27 PM, how are people getting so many progenitor essentia??,Other,Game,"['people', 'getting', 'many', 'progenitor', 'essentia']",people getting many progenitor essentia
+594,2/23/2022,10:50:06 AM, ok night fae then still decent,Other,Game,"['ok', 'night', 'fae', 'still', 'decent']",ok night fae still decent
+595,2/23/2022,1:41:26 PM, can someone give me a green staff? i have boneclutched stave of the quickblade 2 levels short to use,Other,Game,"['someone', 'give', 'green', 'staff', 'boneclutched', 'stave', 'quickblade', 'levels', 'short', 'use']",someone give green staff boneclutched stave quickblade levels short use
+596,2/23/2022,1:25:23 PM, the shards work. the set bonus won't work in the new ares / raid.,Other,Game,"['shards', 'work', 'set', 'bonus', 'work', 'new', 'ares', 'raid']",shards work set bonus work new ares raid
+597,2/22/2022,9:23:14 PM," should go for 252 cape or 246 head, both are same no of ilvl upgrade",Other,Game,"['go', 'cape', 'head', 'ilvl', 'upgrade']",go cape head ilvl upgrade
+598,2/23/2022,7:44:42 PM, the havoc set is actually pretty decent ,Other,Game,"['havoc', 'set', 'actually', 'pretty', 'decent']",havoc set actually pretty decent
+599,2/22/2022,6:22:33 PM, 9.2.5,Other,Game,['9.2'],9.2
+600,2/23/2022,10:39:21 AM, =p,Other,Game,['p'],p
+601,2/23/2022,8:54:16 AM, i prefer 15 mins,Other,Game,"['prefer', 'mins']",prefer mins
+602,2/23/2022,10:08:30 AM, not 'till next xpac,Other,Game,"['till', 'next', 'xpac']",till next xpac
+603,2/23/2022,7:00:41 PM, colossal ebonclaw mawrat,Other,Game,"['colossal', 'ebonclaw', 'mawrat']",colossal ebonclaw mawrat
+604,2/23/2022,5:26:30 PM, the jailer's gauntlet: layer 4,Other,Game,"['jailer', 'gauntlet', 'layer']",jailer gauntlet layer
+605,2/23/2022,10:40:19 AM, that sounds like a job,Other,Game,"['sounds', 'like', 'job']",sounds like job
+606,2/22/2022,5:19:08 PM, yep this week is only the new zone,Other,Game,"['yep', 'week', 'new', 'zone']",yep week new zone
+607,2/22/2022,9:04:17 PM, it only slows progress downm doesn't make it unplayable,Other,Game,"['slows', 'progress', 'downm', 'make', 'unplayable']",slows progress downm make unplayable
+608,2/23/2022,2:37:48 PM, exchanging ingame currency for ingame servives,Other,Game,"['exchanging', 'ingame', 'currency', 'ingame', 'servives']",exchanging ingame currency ingame servives
+609,2/22/2022,7:17:50 PM, workplace sexism solved,Other,Game,"['workplace', 'sexism', 'solved']",workplace sexism solved
+610,2/22/2022,6:26:55 PM, imagine mythic raiding ,Other,Game,"['imagine', 'mythic', 'raiding']",imagine mythic raiding
+611,2/23/2022,7:25:38 PM, honestly tho^,Other,Game,"['honestly', 'tho']",honestly tho
+612,2/23/2022,2:38:24 PM, dont you know that your toxic?,Other,Game,"['know', 'toxic']",know toxic
+613,2/22/2022,8:18:43 AM, i thought it was honestly the boosterettes not the boosteres or the boosted,Other,Game,"['thought', 'honestly', 'boosterettes', 'boosteres', 'boosted']",thought honestly boosterettes boosteres boosted
+614,2/22/2022,8:16:34 AM, how many times did you spam the nword malabrah?,Other,Game,"['many', 'times', 'spam', 'nword', 'malabrah']",many times spam nword malabrah
+615,2/23/2022,9:26:50 PM, they will be back for next expansion ,Other,Game,"['back', 'next', 'expansion']",back next expansion
+616,2/23/2022,10:33:57 AM, you're not banned yet ?,Other,Game,"['banned', 'yet']",banned yet
+617,2/22/2022,8:17:01 PM, resident?,Other,Game,['resident'],resident
+618,2/23/2022,4:37:17 PM, season is over no go,Other,Game,"['season', 'go']",season go
+619,2/23/2022,2:23:57 PM, anyone know how i charge of the covenants,Other,Game,"['anyone', 'know', 'charge', 'covenants']",anyone know charge covenants
+620,2/22/2022,6:36:19 PM, anyone else already beat all of the jailers gauntlet?,Other,Game,"['anyone', 'else', 'already', 'beat', 'jailers', 'gauntlet']",anyone else already beat jailers gauntlet
+621,2/23/2022,10:53:11 AM, where can i find the season 3 keymaster requirements,Other,Game,"['find', 'season', 'keymaster', 'requirements']",find season keymaster requirements
+622,2/22/2022,5:03:14 PM, any pvpers use a good interrupt tracker they can recommend?,Other,Game,"['pvpers', 'use', 'good', 'interrupt', 'tracker', 'recommend']",pvpers use good interrupt tracker recommend
+623,2/23/2022,10:27:35 AM, only pvp rankings and hero title aren't earnable,Other,Game,"['pvp', 'rankings', 'hero', 'title', 'earnable']",pvp rankings hero title earnable
+624,2/23/2022,10:12:48 PM, i need that,Other,Game,['need'],need
+625,2/22/2022,6:59:50 PM, raid acheives are obtainable up till the release of the new raid,Other,Game,"['raid', 'acheives', 'obtainable', 'till', 'release', 'new', 'raid']",raid acheives obtainable till release new raid
+626,2/23/2022,2:08:55 PM, well next week i think,Other,Game,"['well', 'next', 'week', 'think']",well next week think
+627,2/22/2022,8:14:42 AM, 7hrs,Other,Game,['other'],other
+628,2/23/2022,9:27:09 PM, torrxol-area52 you're logged in playing wow bro you gotta be hella mad xd,Other,Game,"['torrxol', 'area', 'logged', 'playing', 'wow', 'bro', 'gotta', 'hella', 'mad', 'xd']",torrxol area logged playing wow bro gotta hella mad xd
+629,2/23/2022,5:40:13 PM, so .. i got billed early for my script .. and it fucked shit up.. now i want to cancel my blizzard script because guilds are selling memberships now.. and blizzard is saying they wont give me a refund.. so yeah watch now,Other,Game,"['got', 'billed', 'early', 'script', 'fucked', 'shit', 'want', 'cancel', 'blizzard', 'script', 'guilds', 'selling', 'memberships', 'blizzard', 'saying', 'wont', 'give', 'refund', 'yeah', 'watch']",got billed early script fucked shit want cancel blizzard script guilds selling memberships blizzard saying wont give refund yeah watch
+630,2/23/2022,12:57:27 AM, you get 10-15 renown from the intro quests,Other,Game,"['get', 'renown', 'intro', 'quests']",get renown intro quests
+631,2/23/2022,9:20:48 PM, can you still get ce,Other,Game,"['still', 'get', 'ce']",still get ce
+632,2/23/2022,12:59:03 AM, do the quest that appears when you firstl og in,Other,Game,"['quest', 'appears', 'firstl', 'og']",quest appears firstl og
+633,2/23/2022,7:02:51 PM, can someone give me ilvl 80+ cloth gear so i can que dungeons and not have to quest? new to server ;(,Other,Game,"['someone', 'give', 'ilvl', 'cloth', 'gear', 'que', 'dungeons', 'quest', 'new', 'server']",someone give ilvl cloth gear que dungeons quest new server
+634,2/22/2022,6:21:26 PM, ah linked as well?,Other,Game,"['ah', 'linked', 'well']",ah linked well
+635,2/23/2022,8:07:22 PM, can someone polease tell me the stat priority for demo lock in pvp for this patch?,Other,Game,"['someone', 'polease', 'tell', 'stat', 'priority', 'demo', 'lock', 'pvp', 'patch']",someone polease tell stat priority demo lock pvp patch
+636,2/22/2022,7:25:47 PM, ooo new cheetah form skin,Other,Game,"['ooo', 'new', 'cheetah', 'form', 'skin']",ooo new cheetah form skin
+637,2/23/2022,12:02:30 PM, you can this week only.,Other,Game,['week'],week
+638,2/22/2022,10:19:47 PM, where is 40 renown vendor,Other,Game,"['renown', 'vendor']",renown vendor
+639,2/23/2022,2:09:18 PM, got it,Other,Game,['got'],got
+640,2/22/2022,8:16:03 PM, guys is there any reason to do covenant campaign im new 60,Other,Game,"['guys', 'reason', 'covenant', 'campaign', 'new']",guys reason covenant campaign new
+641,2/22/2022,7:50:03 PM, tof,Other,Game,['tof'],tof
+642,2/23/2022,12:02:08 PM, no,Other,Game,['other'],other
+643,2/22/2022,8:20:52 PM, any twinks free to help me run rfc real fast,Other,Game,"['twinks', 'free', 'help', 'run', 'rfc', 'real', 'fast']",twinks free help run rfc real fast
+644,2/23/2022,2:09:04 PM, but not 'new' new,Other,Game,"['new', 'new']",new new
+645,2/23/2022,9:29:42 PM, conversations about how wow sucks on wow is whats wrong with humanity,Other,Game,"['conversations', 'wow', 'sucks', 'wow', 'whats', 'wrong', 'humanity']",conversations wow sucks wow whats wrong humanity
+646,2/22/2022,8:33:54 AM, ^,Other,Game,['other'],other
+647,2/23/2022,11:49:13 AM," ""stop whining, back in my day we didn't whine we didn't get nuthin from whining!""",Other,Game,"['stop', 'whining', 'back', 'day', 'whine', 'get', 'nuthin', 'whining']",stop whining back day whine get nuthin whining
+648,2/22/2022,9:55:18 PM, i miss boosting spam,Other,Game,"['miss', 'boosting', 'spam']",miss boosting spam
+649,2/22/2022,10:00:55 PM, feral arena players wya,Other,Game,"['feral', 'arena', 'players', 'wya']",feral arena players wya
+650,2/23/2022,10:11:55 AM, can we transer soul cinders now?,Other,Game,"['transer', 'soul', 'cinders']",transer soul cinders
+651,2/22/2022,11:09:18 PM, what items i can buy with valor?,Other,Game,"['items', 'buy', 'valor']",items buy valor
+652,2/23/2022,12:00:46 PM, cypher lore codex,Other,Game,"['cypher', 'lore', 'codex']",cypher lore codex
+653,2/23/2022,12:12:16 AM, any heals for keystone: theater of pain (16)?,Other,Game,"['heals', 'keystone', 'theater', 'pain']",heals keystone theater pain
+654,2/23/2022,11:00:08 AM, any sucessful gold makers out there who'd be willing to talk to me about some strategies? trying to learn some good ways to do so with the ah and such.,Other,Game,"['sucessful', 'gold', 'makers', 'willing', 'talk', 'strategies', 'trying', 'learn', 'good', 'ways', 'ah']",sucessful gold makers willing talk strategies trying learn good ways ah
+655,2/23/2022,1:15:55 AM, ok cool,Other,Game,"['ok', 'cool']",ok cool
+656,2/22/2022,6:26:30 PM, what's the name of the new blue ore?,Other,Game,"['name', 'new', 'blue', 'ore']",name new blue ore
+657,2/23/2022,4:37:46 PM, the only thing no longer obtainable is the title for being in the top 1%,Other,Game,"['thing', 'longer', 'obtainable', 'title', 'top']",thing longer obtainable title top
+658,2/23/2022,12:57:11 PM, arms warr pvp question if any can pst me,Other,Game,"['arms', 'warr', 'pvp', 'question', 'pst']",arms warr pvp question pst
+659,2/22/2022,8:41:09 AM, do i need to valor dump before reset since season 3 isnt till mrch?,Other,Game,"['need', 'valor', 'dump', 'reset', 'since', 'season', 'isnt', 'till', 'mrch']",need valor dump reset since season isnt till mrch
+660,2/22/2022,5:14:41 PM, next reset,Other,Game,"['next', 'reset']",next reset
+661,2/23/2022,12:56:00 PM, anyone got a void shrouded satchel they wanna sell?,Other,Game,"['anyone', 'got', 'void', 'shrouded', 'satchel', 'wanna', 'sell']",anyone got void shrouded satchel wanna sell
+662,2/23/2022,1:31:38 PM, no,Other,Game,['other'],other
+663,2/22/2022,8:17:14 PM," i'm not seeing any available to queue fr, so i think you're fucking with me",Other,Game,"['seeing', 'available', 'queue', 'fr', 'think', 'fucking']",seeing available queue fr think fucking
+664,2/23/2022,10:04:00 AM, it is still rep locked,Other,Game,"['still', 'rep', 'locked']",still rep locked
+665,2/23/2022,2:08:59 PM, 2 new m+ dungeons,Other,Game,"['new', 'dungeons']",new dungeons
+666,2/23/2022,8:11:24 AM, yes,Other,Game,['yes'],yes
+667,2/23/2022,9:34:25 PM," gotta love losers who spends money on a product,  and for years straight continue to bitch about it.",Other,Game,"['gotta', 'love', 'losers', 'spends', 'money', 'product', 'years', 'straight', 'continue', 'bitch']",gotta love losers spends money product years straight continue bitch
+668,2/22/2022,9:39:00 PM," he's having a goddamn mental breakdown, what purpose does crashing wow servers serve kanye? wtf",Other,Game,"['goddamn', 'mental', 'breakdown', 'purpose', 'crashing', 'wow', 'servers', 'serve', 'kanye', 'wtf']",goddamn mental breakdown purpose crashing wow servers serve kanye wtf
+669,2/23/2022,1:26:14 PM," no, the shards don't work anymore at all",Other,Game,"['shards', 'work', 'anymore']",shards work anymore
+670,2/23/2022,2:06:17 PM, when does season 3 start,Other,Game,"['season', 'start']",season start
+671,2/23/2022,11:48:19 AM, they are not puzzles,Other,Game,['puzzles'],puzzles
+672,2/23/2022,12:57:30 AM, questline give renown,Other,Game,"['questline', 'give', 'renown']",questline give renown
+673,2/22/2022,8:34:00 AM, whats the best class to play this patch,Other,Game,"['whats', 'best', 'class', 'play', 'patch']",whats best class play patch
+674,2/22/2022,10:53:08 PM, glider kits really help in the new zone.,Other,Game,"['glider', 'kits', 'really', 'help', 'new', 'zone']",glider kits really help new zone
+675,2/23/2022,3:47:07 PM, can you still get cutting edge for sanctum with 9.2 out?,Other,Game,"['still', 'get', 'cutting', 'edge', 'sanctum', '9.2']",still get cutting edge sanctum 9.2
+676,2/22/2022,11:11:33 PM, is today 9.2?!?,Other,Game,"['today', '9.2']",today 9.2
+677,2/22/2022,8:27:30 PM, the unprepared ones are the ones who werente asking,Other,Game,"['unprepared', 'ones', 'ones', 'werente', 'asking']",unprepared ones ones werente asking
+678,2/23/2022,10:26:45 AM, ya,Other,Game,['ya'],ya
+679,2/23/2022,10:05:20 PM, warcraft is just a world,Other,Game,"['warcraft', 'world']",warcraft world
+680,2/23/2022,1:15:49 AM, just worked,Other,Game,['worked'],worked
+681,2/22/2022,6:11:14 PM," make an orc warrior, be a man",Other,Game,"['make', 'orc', 'warrior', 'man']",make orc warrior man
+682,2/22/2022,7:34:17 PM," this isnt netflix where you get the whole season to binge, its disney+",Other,Game,"['isnt', 'netflix', 'get', 'whole', 'season', 'binge', 'disney']",isnt netflix get whole season binge disney
+683,2/23/2022,1:11:10 AM, i still have my s2 valor...,Other,Game,"['still', 'valor']",still valor
+684,2/23/2022,5:03:14 PM, the icon looks like a chainsaw,Other,Game,"['icon', 'looks', 'like', 'chainsaw']",icon looks like chainsaw
+685,2/23/2022,5:53:07 PM, whens the new pvp season start?,Other,Game,"['whens', 'new', 'pvp', 'season', 'start']",whens new pvp season start
+686,2/23/2022,9:37:50 PM, you're in the wrong game then,Other,Game,"['wrong', 'game']",wrong game
+687,2/23/2022,10:49:38 AM, got nerfed tho so,Other,Game,"['got', 'nerfed', 'tho']",got nerfed tho
+688,2/22/2022,8:20:23 AM, can't believe rated solo que will be real,Other,Game,"['believe', 'rated', 'solo', 'que', 'real']",believe rated solo que real
+689,2/22/2022,5:15:03 PM, so should i save my honor for next week?,Other,Game,"['save', 'honor', 'next', 'week']",save honor next week
+690,2/22/2022,5:30:03 PM, will people still run the older raids if we never got to try them?,Other,Game,"['people', 'still', 'run', 'older', 'raids', 'never', 'got', 'try']",people still run older raids never got try
+691,2/23/2022,6:27:07 PM, the ah,Other,Game,['ah'],ah
+692,2/22/2022,5:51:42 PM, if i get it ill give u 10k,Other,Game,"['get', 'ill', 'give']",get ill give
+693,2/23/2022,11:47:56 AM, mythic gear and ilvl shit dont come out till next week,Other,Game,"['mythic', 'gear', 'ilvl', 'shit', 'come', 'till', 'next', 'week']",mythic gear ilvl shit come till next week
+694,2/23/2022,5:19:30 PM," honestly depends completely on you, the new legendaries are sure to be overpriced",Other,Game,"['honestly', 'depends', 'completely', 'new', 'legendaries', 'sure', 'overpriced']",honestly depends completely new legendaries sure overpriced
+695,2/23/2022,1:48:12 PM, as its 259,Other,Game,['other'],other
+696,2/23/2022,2:30:15 PM, lol,Other,Game,['lol'],lol
+697,2/23/2022,6:28:45 PM, lmfao same though,Other,Game,"['lmfao', 'though']",lmfao though
+698,2/23/2022,12:57:12 AM, on alt should you skip zereth mortis intro if you still need renown? do you get any renown from questline?,Other,Game,"['alt', 'skip', 'zereth', 'mortis', 'intro', 'still', 'need', 'renown', 'get', 'renown', 'questline']",alt skip zereth mortis intro still need renown get renown questline
+699,2/22/2022,5:17:34 PM, so pvp gear comes out next week?,Other,Game,"['pvp', 'gear', 'comes', 'next', 'week']",pvp gear comes next week
+700,2/23/2022,12:59:38 AM," i think venth for pve, necro for pvp on sub, could be wrong",Other,Game,"['think', 'venth', 'pve', 'necro', 'pvp', 'sub', 'could', 'wrong']",think venth pve necro pvp sub could wrong
+701,2/23/2022,6:32:03 PM, he knows how to spin straw into gold,Other,Game,"['knows', 'spin', 'straw', 'gold']",knows spin straw gold
+702,2/22/2022,5:51:13 PM, sweet hopefully i have luck like you,Other,Game,"['sweet', 'hopefully', 'luck', 'like']",sweet hopefully luck like
+703,2/22/2022,8:18:09 AM, i wonder if they're going to start banning players in d3 for boosting next,Other,Game,"['wonder', 'going', 'start', 'banning', 'players', 'boosting', 'next']",wonder going start banning players boosting next
+704,2/22/2022,5:48:27 PM, are they gonna wipe out all conquest??,Other,Game,"['gonna', 'wipe', 'conquest']",gonna wipe conquest
+705,2/22/2022,8:21:52 AM, @blokemon ya  thats why they should bann by ip,Other,Game,"['blokemon', 'ya', 'bann', 'ip']",blokemon ya bann ip
+706,2/22/2022,5:49:20 PM, how long does it take for character transfer to another account,Other,Game,"['long', 'take', 'character', 'transfer', 'another', 'account']",long take character transfer another account
+707,2/23/2022,2:06:22 PM, next week,Other,Game,"['next', 'week']",next week
+708,2/23/2022,3:21:44 PM, next week,Other,Game,"['next', 'week']",next week
+709,2/23/2022,9:29:21 PM, legion was amazing.  bfa was nice at launch.  ,Other,Game,"['legion', 'amazing', 'bfa', 'nice', 'launch']",legion amazing bfa nice launch
+710,2/23/2022,12:59:08 AM, anyone have a tazavesh keystone? or are they not out yet?,Other,Game,"['anyone', 'tazavesh', 'keystone', 'yet']",anyone tazavesh keystone yet
+711,2/23/2022,8:10:36 AM, i left by mistake,Other,Game,"['left', 'mistake']",left mistake
+712,2/23/2022,10:37:21 AM, i got new pets yesterda maybe others are just bad at the game?,Other,Game,"['got', 'new', 'pets', 'yesterda', 'maybe', 'others', 'bad', 'game']",got new pets yesterda maybe others bad game
+713,2/23/2022,9:30:46 PM, world of warcraft return of the empire,Other,Game,"['world', 'warcraft', 'return', 'empire']",world warcraft return empire
+714,2/23/2022,12:02:03 PM, dont think so,Other,Game,['think'],think
+715,2/22/2022,5:14:48 PM, next week,Other,Game,"['next', 'week']",next week
+716,2/23/2022,12:17:31 PM, could anyone spare 200g so i can buy flying? this is my first character and im 4519/4750,Other,Game,"['could', 'anyone', 'spare', 'buy', 'flying', 'first', 'character']",could anyone spare buy flying first character
+717,2/23/2022,10:26:54 AM, revered?technique: glyph of the spectral vulpine got this in a box on a non scribe,Other,Game,"['revered', 'technique', 'glyph', 'spectral', 'vulpine', 'got', 'box', 'non', 'scribe']",revered technique glyph spectral vulpine got box non scribe
+718,2/22/2022,8:01:36 PM, how long is pvp off season?,Other,Game,"['long', 'pvp', 'season']",long pvp season
+719,2/23/2022,10:29:59 AM," they do fix the important stuff, just maybe what is important to them is not important to you",Other,Game,"['fix', 'important', 'stuff', 'maybe', 'important', 'important']",fix important stuff maybe important important
+720,2/23/2022,12:49:02 AM, any officers from guild: unprotected hex on?,Other,Game,"['officers', 'guild', 'unprotected', 'hex']",officers guild unprotected hex
+721,2/23/2022,7:56:59 PM, dk tanks gonna be good in m+?,Other,Game,"['dk', 'tanks', 'gonna', 'good']",dk tanks gonna good
+722,2/22/2022,10:31:55 PM, reminds me of breath of the wild,Other,Game,"['reminds', 'breath', 'wild']",reminds breath wild
+723,2/23/2022,10:12:53 PM, same bruh,Other,Game,['bruh'],bruh
+724,2/23/2022,7:44:44 AM, what ilvl in m0 now?,Other,Game,['ilvl'],ilvl
+725,2/22/2022,8:16:07 PM, anyone know if tazavesh is currently available in m+?,Other,Game,"['anyone', 'know', 'tazavesh', 'currently', 'available']",anyone know tazavesh currently available
+726,2/23/2022,12:51:49 AM, or perhaps sub rogue really just isn't strong enough so they keep buffing it inadvertently,Other,Game,"['perhaps', 'sub', 'rogue', 'really', 'strong', 'enough', 'keep', 'buffing', 'inadvertently']",perhaps sub rogue really strong enough keep buffing inadvertently
+727,2/23/2022,4:38:01 PM, the season is over....,Other,Game,['season'],season
+728,2/23/2022,12:01:56 PM, can you get aotc for sylvanus still?,Other,Game,"['get', 'aotc', 'sylvanus', 'still']",get aotc sylvanus still
+729,2/22/2022,6:10:17 PM, orc for dmg tauren for tank,Other,Game,"['orc', 'dmg', 'tauren', 'tank']",orc dmg tauren tank
+730,2/22/2022,7:32:50 PM," pet battles, it's all about pet battles",Other,Game,"['pet', 'battles', 'pet', 'battles']",pet battles pet battles
+731,2/23/2022,4:36:57 PM, thats what i thoughtt ty,Other,Game,"['thoughtt', 'ty']",thoughtt ty
+732,2/23/2022,7:27:00 PM, can you even still get cutting edge?,Other,Game,"['even', 'still', 'get', 'cutting', 'edge']",even still get cutting edge
+733,2/23/2022,9:30:52 PM," conduit energy and all the rep systems were awful, 9.1.5 was a huge step towards success and 9.2 has given the same vibe",Other,Game,"['conduit', 'energy', 'rep', 'systems', 'awful', 'huge', 'step', 'towards', 'success', '9.2', 'given', 'vibe']",conduit energy rep systems awful huge step towards success 9.2 given vibe
+734,2/23/2022,3:08:27 PM, when will the jailers gauntlet layer 5 be open?,Other,Game,"['jailers', 'gauntlet', 'layer', 'open']",jailers gauntlet layer open
+735,2/22/2022,7:30:41 PM, where is the solo queue?,Other,Game,"['solo', 'queue']",solo queue
+736,2/22/2022,6:29:05 PM, is this game good now?,Other,Game,"['game', 'good']",game good
+737,2/23/2022,10:38:25 AM, more like massive gold mine. im up to 37 mil from battle pet farming/trades.,Other,Game,"['like', 'massive', 'gold', 'mine', 'mil', 'battle', 'pet', 'farming', 'trades']",like massive gold mine mil battle pet farming trades
+738,2/23/2022,2:03:42 PM, one of my papal fez sold today for gold cap so thats cool ,Other,Game,"['one', 'papal', 'fez', 'sold', 'today', 'gold', 'cap', 'cool']",one papal fez sold today gold cap cool
+739,2/23/2022,10:26:55 AM," ahh, rip",Other,Game,"['ahh', 'rip']",ahh rip
+740,2/23/2022,5:18:13 PM, wym ,Other,Game,['wym'],wym
+741,2/23/2022,5:19:57 PM, yeah i have my 262 arms one ,Other,Game,"['yeah', 'arms', 'one']",yeah arms one
+742,2/23/2022,12:49:16 AM, save yourself from that guild,Other,Game,"['save', 'guild']",save guild
+743,2/23/2022,11:18:15 AM, someone buy my wow token,Other,Game,"['someone', 'buy', 'wow', 'token']",someone buy wow token
+744,2/23/2022,12:59:26 AM, i didnt get a quest,Other,Game,"['didnt', 'get', 'quest']",didnt get quest
+745,2/23/2022,12:57:57 AM, youll miss out on some rep and gear i think,Other,Game,"['youll', 'miss', 'rep', 'gear', 'think']",youll miss rep gear think
+746,2/22/2022,7:04:57 PM, just reroll now so u dont have to be a belf ,Other,Game,"['reroll', 'belf']",reroll belf
+747,2/23/2022,5:10:36 PM, any br guild?,Other,Game,"['br', 'guild']",br guild
+748,2/22/2022,8:54:58 PM, 5 weeks from now,Other,Game,['weeks'],weeks
+749,2/23/2022,8:54:12 AM, 1 hour,Other,Game,['hour'],hour
+750,2/23/2022,10:39:30 AM, i do that too but with a fraction of the goold,Other,Game,"['fraction', 'goold']",fraction goold
+751,2/22/2022,10:40:51 PM,  /camp as well,Other,Game,"['camp', 'well']",camp well
+752,2/22/2022,8:20:47 AM, no val they're making them start overing,Other,Game,"['val', 'making', 'start', 'overing']",val making start overing
+753,2/22/2022,5:06:39 PM, march 1,Other,Game,['march'],march
+754,2/23/2022,2:30:22 PM, why lost ark servers gotta lag. blizzard has pulled me back.,Other,Game,"['lost', 'ark', 'servers', 'gotta', 'lag', 'blizzard', 'pulled', 'back']",lost ark servers gotta lag blizzard pulled back
+755,2/23/2022,7:55:42 PM, when can we make the 291 legendary?,Other,Game,"['make', 'legendary']",make legendary
+756,2/22/2022,7:29:27 PM, yep.,Other,Game,['yep'],yep
+757,2/23/2022,4:44:30 PM, whats the name of the addon for the zereth mortis puzzles,Other,Game,"['whats', 'name', 'addon', 'zereth', 'mortis', 'puzzles']",whats name addon zereth mortis puzzles
+758,2/22/2022,5:01:12 PM, level 50 /flex,Other,Game,"['level', 'flex']",level flex
+759,2/23/2022,1:47:30 PM, anyone know if its worth upgrade gear with honor still or do we keep it next week?,Other,Game,"['anyone', 'know', 'worth', 'upgrade', 'gear', 'honor', 'still', 'keep', 'next', 'week']",anyone know worth upgrade gear honor still keep next week
+760,2/23/2022,6:44:58 PM, can someone please take me to the flight master this place is confusing af ,Other,Game,"['someone', 'please', 'take', 'flight', 'master', 'place', 'confusing', 'af']",someone please take flight master place confusing af
+761,2/23/2022,6:28:15 PM, any ferocity pet yeah,Other,Game,"['ferocity', 'pet', 'yeah']",ferocity pet yeah
+762,2/23/2022,10:49:50 AM," no you can buy a spectral tiger cub on several servers at moment for 250k-300k. transfer it to here for example and resell. current price is 850,000. that is almost a 400,000 gold boost free",Other,Game,"['buy', 'spectral', 'tiger', 'cub', 'several', 'servers', 'moment', 'transfer', 'example', 'resell', 'current', 'price', 'almost', 'gold', 'boost', 'free']",buy spectral tiger cub several servers moment transfer example resell current price almost gold boost free
+763,2/22/2022,8:21:21 AM, so u  just get another acc buy instant 60  _d,Other,Game,"['get', 'another', 'acc', 'buy', 'instant']",get another acc buy instant
+764,2/23/2022,10:40:34 AM, fun job =p,Other,Game,"['fun', 'job', 'p']",fun job p
+765,2/22/2022,7:46:45 PM," can somebody message me that has been playing warlock, i got a few quetsions",Other,Game,"['somebody', 'message', 'playing', 'warlock', 'got', 'quetsions']",somebody message playing warlock got quetsions
+766,2/23/2022,10:37:24 AM, doesnt mean blizz hasnt progressively gone to more shit every expac,Other,Game,"['doesnt', 'mean', 'blizz', 'hasnt', 'progressively', 'gone', 'shit', 'every', 'expac']",doesnt mean blizz hasnt progressively gone shit every expac
+767,2/23/2022,1:23:47 PM, same toon or diff,Other,Game,"['toon', 'diff']",toon diff
+768,2/22/2022,11:11:06 PM, is possible to buy items 246?,Other,Game,"['possible', 'buy', 'items']",possible buy items
+769,2/23/2022,8:48:12 PM, @mortalgod honor stays conquest goes,Other,Game,"['mortalgod', 'honor', 'stays', 'conquest', 'goes']",mortalgod honor stays conquest goes
+770,2/23/2022,11:22:22 AM, except the newest post always gets sold first,Other,Game,"['except', 'newest', 'post', 'always', 'gets', 'sold', 'first']",except newest post always gets sold first
+771,2/23/2022,5:18:52 PM, so like ,Other,Game,['like'],like
+772,2/23/2022,4:36:55 PM, yes you will,Other,Game,['yes'],yes
+773,2/22/2022,6:47:42 PM, did anyone else just randomly get their pvp titles back?,Other,Game,"['anyone', 'else', 'randomly', 'get', 'pvp', 'titles', 'back']",anyone else randomly get pvp titles back
+774,2/22/2022,6:02:58 PM, no its not its the best zone so far,Other,Game,"['best', 'zone', 'far']",best zone far
+775,2/23/2022,10:45:37 AM, 291 leggos are on mythic week,Other,Game,"['leggos', 'mythic', 'week']",leggos mythic week
+776,2/22/2022,9:38:12 PM, send ticket,Other,Game,"['send', 'ticket']",send ticket
+777,2/23/2022,7:31:26 PM, oooh,Other,Game,['oooh'],oooh
+778,2/23/2022,10:12:45 PM, who out here giving 20s away,Other,Game,"['giving', 'away']",giving away
+779,2/23/2022,10:45:22 AM, locked behind rep,Other,Game,"['locked', 'behind', 'rep']",locked behind rep
+780,2/23/2022,9:37:48 PM, nah you do,Other,Game,['nah'],nah
+781,2/22/2022,5:47:47 PM, no,Other,Game,['other'],other
+782,2/23/2022,10:22:41 AM, what class/spec do you guys main?,Other,Game,"['class', 'spec', 'guys', 'main']",class spec guys main
+783,2/22/2022,11:43:53 PM, how can i get to old school dal?,Other,Game,"['get', 'old', 'school', 'dal']",get old school dal
+784,2/22/2022,5:43:48 PM, >pve,Other,Game,['pve'],pve
+785,2/23/2022,5:18:37 PM, so next week most likely,Other,Game,"['next', 'week', 'likely']",next week likely
+786,2/23/2022,1:13:12 AM, so you have 6.5 days to spend it.,Other,Game,"['days', 'spend']",days spend
+787,2/23/2022,7:56:14 PM, providing you do every daily,Other,Game,"['providing', 'every', 'daily']",providing every daily
+788,2/22/2022,6:26:24 PM, yeah if u got the cinders,Other,Game,"['yeah', 'got', 'cinders']",yeah got cinders
+789,2/23/2022,4:44:41 PM, zereth mortis puzzle ,Other,Game,"['zereth', 'mortis', 'puzzle']",zereth mortis puzzle
+790,2/23/2022,2:05:36 PM, am i trolling if i buy 262 lego rn ,Other,Game,"['trolling', 'buy', 'lego', 'rn']",trolling buy lego rn
+791,2/23/2022,9:36:00 PM, anyone have a tall boy in oribos?,Other,Game,"['anyone', 'tall', 'boy', 'oribos']",anyone tall boy oribos
+792,2/22/2022,10:31:41 PM, do mythic rewards not upgrade until next week? just did an 8 that only gave 226,Other,Game,"['mythic', 'rewards', 'upgrade', 'next', 'week', 'gave']",mythic rewards upgrade next week gave
+793,2/23/2022,3:08:36 PM, when you beat 4,Other,Game,['beat'],beat
+794,2/22/2022,8:26:16 PM, where did the twinks go ,Other,Game,"['twinks', 'go']",twinks go
+795,2/23/2022,10:25:57 AM, how did someone already hit honored,Other,Game,"['someone', 'already', 'hit', 'honored']",someone already hit honored
+796,2/22/2022,10:29:02 PM," blingtrons 5k and 7k up in org's valley of strength for the next 10 min. i place them at the same times every day, and they offer a gift once per day per account. whisper me if you want to know more, and have a great day!",Other,Game,"['blingtrons', 'org', 'valley', 'strength', 'next', 'min', 'place', 'times', 'every', 'day', 'offer', 'gift', 'per', 'day', 'per', 'account', 'whisper', 'want', 'know', 'great', 'day']",blingtrons org valley strength next min place times every day offer gift per day per account whisper want know great day
+797,2/23/2022,2:03:42 PM, will lfr for sire denathrius even pop?,Other,Game,"['lfr', 'sire', 'denathrius', 'even', 'pop']",lfr sire denathrius even pop
+798,2/23/2022,3:21:51 PM," neato, thank you so much",Other,Game,"['neato', 'thank', 'much']",neato thank much
+799,2/22/2022,5:43:55 PM, how long it take for character to transfer,Other,Game,"['long', 'take', 'character', 'transfer']",long take character transfer
+800,2/23/2022,1:27:54 PM, hes right i just put  on desolate shard of jas and my hp doesnt go up,Other,Game,"['hes', 'right', 'put', 'desolate', 'shard', 'jas', 'hp', 'doesnt', 'go']",hes right put desolate shard jas hp doesnt go
+801,2/23/2022,6:34:53 PM, can pots / flask proc in shadowlands alchemy? ,Other,Game,"['pots', 'flask', 'proc', 'shadowlands', 'alchemy']",pots flask proc shadowlands alchemy
+802,2/22/2022,8:12:13 PM, go fury,Other,Game,"['go', 'fury']",go fury
+803,2/22/2022,10:36:23 PM, does skipping ahead on the new content miss out on potential reputation?,Other,Game,"['skipping', 'ahead', 'new', 'content', 'miss', 'potential', 'reputation']",skipping ahead new content miss potential reputation
+804,2/23/2022,6:50:33 PM, chromie wod,Other,Game,"['chromie', 'wod']",chromie wod
+805,2/23/2022,12:02:23 PM, yes but i  dont' know if people still run it,Other,Game,"['yes', 'know', 'people', 'still', 'run']",yes know people still run
+806,2/23/2022,4:36:48 PM, nope,Other,Game,['nope'],nope
+807,2/23/2022,4:24:41 PM, would a 19 *untimed* give a 15 in next vault or is it only 19 timed or 20 untimed for 16?,Other,Game,"['would', 'untimed', 'give', 'next', 'vault', 'timed', 'untimed']",would untimed give next vault timed untimed
+808,2/23/2022,1:37:23 PM, can someone give me a soul keeper's spire so i can run a dungeon?,Other,Game,"['someone', 'give', 'soul', 'keeper', 'spire', 'run', 'dungeon']",someone give soul keeper spire run dungeon
+809,2/23/2022,9:29:53 PM, shadowlands was and still is fine imo.  just holier than thou losers made this game unbearable.,Other,Game,"['shadowlands', 'still', 'fine', 'imo', 'holier', 'thou', 'losers', 'made', 'game', 'unbearable']",shadowlands still fine imo holier thou losers made game unbearable
+810,2/22/2022,10:14:19 PM, thug cleave or jungle...,Other,Game,"['thug', 'cleave', 'jungle']",thug cleave jungle
+811,2/23/2022,7:02:10 PM, tauren need the all 2022 dodge ram heavy duty,Other,Game,"['tauren', 'need', 'dodge', 'ram', 'heavy', 'duty']",tauren need dodge ram heavy duty
+812,2/22/2022,10:13:54 PM, next,Other,Game,['next'],next
+813,2/22/2022,6:42:06 PM, medium good,Other,Game,"['medium', 'good']",medium good
+814,2/22/2022,8:33:54 AM, when i get a day off i take it,Other,Game,"['get', 'day', 'take']",get day take
+815,2/22/2022,6:31:27 PM, i believe everyone chooses their path and you can always heal ,Other,Game,"['believe', 'everyone', 'chooses', 'path', 'always', 'heal']",believe everyone chooses path always heal
+816,2/23/2022,12:38:39 AM, can i throw out the shards of domination taking up space in my bags now?,Other,Game,"['throw', 'shards', 'domination', 'taking', 'space', 'bags']",throw shards domination taking space bags
+817,2/22/2022,8:13:40 PM, how do i get to the new zone? i didnt get a quest,Other,Game,"['get', 'new', 'zone', 'didnt', 'get', 'quest']",get new zone didnt get quest
+818,2/23/2022,3:04:17 PM, 9.1 yea,Other,Game,['yea'],yea
+819,2/22/2022,6:36:14 PM, its not a game you beat its like a job but it can be fun,Other,Game,"['game', 'beat', 'like', 'job', 'fun']",game beat like job fun
+820,2/23/2022,4:39:17 PM, cannot wait for the new recolor of the ksm mount!,Other,Game,"['cannot', 'wait', 'new', 'recolor', 'ksm', 'mount']",cannot wait new recolor ksm mount
+821,2/23/2022,1:23:17 PM, i'm sure you'll get lots of responses,Other,Game,"['sure', 'get', 'lots', 'responses']",sure get lots responses
+822,2/22/2022,5:03:26 PM, omnibar with an interrupt bar,Other,Game,"['omnibar', 'interrupt', 'bar']",omnibar interrupt bar
+823,2/23/2022,1:23:04 PM, if it's so mind blowing then just post it in chat,Other,Game,"['mind', 'blowing', 'post', 'chat']",mind blowing post chat
+824,2/22/2022,7:31:15 PM, new arena,Other,Game,"['new', 'arena']",new arena
+825,2/23/2022,2:39:03 PM, why cant i realm change? it says i have an unwrapped pet or some shit but i cant find it,Other,Game,"['cant', 'realm', 'change', 'says', 'unwrapped', 'pet', 'shit', 'cant', 'find']",cant realm change says unwrapped pet shit cant find
+826,2/23/2022,1:23:21 PM, he was here the other day n tried the same shit awhile ago,Other,Game,"['day', 'n', 'tried', 'shit', 'awhile', 'ago']",day n tried shit awhile ago
+827,2/22/2022,9:02:39 PM, i did up to unlocking the cypher and it allowed me to skip to that point on alts,Other,Game,"['unlocking', 'cypher', 'allowed', 'skip', 'point', 'alts']",unlocking cypher allowed skip point alts
+828,2/23/2022,2:08:59 PM," the dungeons arent really ""new"" persay, its just new to the key system, ",Other,Game,"['dungeons', 'arent', 'really', 'new', 'persay', 'new', 'key', 'system']",dungeons arent really new persay new key system
+829,2/22/2022,10:36:17 PM, wot,Other,Game,['wot'],wot
+830,2/22/2022,6:37:13 PM, imagine needing gear,Other,Game,"['imagine', 'needing', 'gear']",imagine needing gear
+831,2/23/2022,4:40:01 PM, agreed :d,Other,Game,['agreed'],agreed
+832,2/22/2022,8:54:46 PM, when do i get to wear 2 leggo?,Other,Game,"['get', 'wear', 'leggo']",get wear leggo
+833,2/23/2022,1:23:35 PM, nah they've been thre for awhile,Other,Game,"['nah', 'thre', 'awhile']",nah thre awhile

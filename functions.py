@@ -1,12 +1,76 @@
 # importing libraries
 import pandas as pd
 import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
 
 # import for scoring and train_test_split
 from sklearn.model_selection import train_test_split, cross_val_score
+from sklearn.metrics import accuracy_score, confusion_matrix, recall_score, precision_score
+
 
 
 class TradeChat():
+
+
+    def multi_run_model(self, models, X_train, y_train, X_test, y_test, model_labels, score='accuracy'):
+        # Dict to hold model performance
+        model_perf = {}
+
+        # Cycle through our models and output their performance and confusion matrix
+        for key, model in models.items():
+
+            # Fitting the model
+            model.fit(X_train, y_train)
+
+            # Grabbing our cross validated accuracy score
+            cv_score = round(np.mean(cross_val_score(model, X_train, y_train, cv= 5, scoring= score)),4)
+
+            # predicting with our model and grabiing the test accuracy
+            y_pred = model.predict(X_test)
+
+            if score == 'accuracy':
+                test_acc = round(accuracy_score(y_pred, y_test), 4)
+
+                # Placing the cv accuracy and test accuracy into a dict
+                acc_dict = {'CV_Accuracy': cv_score, 'Test_Accuracy': test_acc}
+
+                # updating the model_perf with performance metrics
+                model_perf[key] = {'Model': model, 'Performace': acc_dict}
+
+            elif score == 'recall':
+                test_rec = round(recall_score(y_pred, y_test), 4)
+
+                # Placing the cv recall and test recall into a dict
+                rec_dict = {'CV_Recall': cv_score, 'Test_Recall': test_rec}
+
+                # updating the model_perf with performance metrics
+                model_perf[key] = {'Model': model, 'Performace': rec_dict}
+
+            else:
+                test_pre = round(precision_score(y_pred, y_test), 4)
+
+                # Placing the cv precision and test precision into a dict
+                pre_dict = {'CV_Precision': cv_score, 'Test_Precision': test_pre}
+
+                # updating the model_perf with performance metrics
+                model_perf[key] = {'Model': model, 'Performace': pre_dict}
+
+
+            # Printing out results and confusion matrix
+            print(f'Showing results for: {key}')
+            print(model_perf[key])
+            print()
+
+            cm = confusion_matrix(y_test, y_pred)
+            fig, ax = plt.subplots(figsize=(8,6))
+
+            sns.heatmap(cm/np.sum(cm), annot=True, fmt='.2%', cmap='Blues', xticklabels= model_labels, yticklabels= model_labels)
+            ax.set_title(key);
+
+        return(model_perf)
+
+
 
     def down_sample(self, df, label_name):
         # find the number of observations in the smallest group
@@ -188,3 +252,7 @@ class TradeChat():
 
         return df
 
+    def top_words(self, cluster_word_distribution, top_cluster, values):
+        for cluster in top_cluster:
+            sort_dicts = sorted(cluster_word_distribution[cluster].items(), key=lambda k: k[1], reverse=True)[:values]
+            print("\nCluster %s : %s"%(cluster, sort_dicts))
