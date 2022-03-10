@@ -26,7 +26,7 @@ Through the use of the in-game chat command "/chatlog", I collected roughly 24 h
 ### <u>Sentiment Analysis</u> 
 For the sentiment analysis of game related text, we see that about 41% of the chat had negative sentiment during the launch of patch 9.2, Eternity’s End.
 
-<img width=65% src="images\sent_chart.PNG">
+<img width=55% src="images\sent_chart.PNG">
 
 
 ### <u>Topic Analysis</u>
@@ -39,15 +39,15 @@ Here we have some of the top topics found in negative chat. In our server stabil
 Since I'm not able to clone myself, I created three models. My first model is a multiclass model to classify the topic of the text as chat, game, or service. The next model is a sentiment model that labels the text as either negative or non-negative sentiment. My final model is my topic model that is only fed negative game classified text to create player feedback on the current state of World of Warcraft.
 ### <u>Multiclass Model</u>
 
-<img width=65% src="images\multiclass_chart.PNG">
+<img width=55% src="images\multiclass_chart.PNG">
 
-<img width=65% src="images\multi_logreg.PNG">
+<img width=45% src="images\multi_logreg.PNG">
 
 ### <u>Sentiment Model</u>
 
-<img width=65% src="images\sentiment_chart.PNG">
+<img width=55% src="images\sentiment_chart.PNG">
 
-<img width=65% src="images\sent_logreg.PNG">
+<img width=45% src="images\sent_logreg.PNG">
 
 ### <u>Topic Model</u>
 
